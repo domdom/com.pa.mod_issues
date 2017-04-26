@@ -1,0 +1,25 @@
+MOD DETAILS
+===========
+      name: TheEffectTheCause's Map pack
+identifier: uk.pa.tetcmappack
+    author: TheEffectTheCause
+     forum: https://forums.uberent.com/threads/theeffectthecauses-map-pack.71952/
+
+ISSUE SUMMARY 2
+---------------
+modinfo issues: 2
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 2
+----------------
+ERROR: Mandatory field "category" is missing.
+ERROR: "category" field must be an array of strings.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

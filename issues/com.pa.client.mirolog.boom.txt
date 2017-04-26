@@ -1,0 +1,34 @@
+MOD DETAILS
+===========
+      name: Bigger Explosions
+identifier: com.pa.client.mirolog.boom
+    author: mirolog
+     forum: https://forums.uberent.com/threads/rel-client-bigger-explosions.71345/
+
+ISSUE SUMMARY 3
+---------------
+modinfo issues: 2
+ missing files: 0
+   json issues: 1
+
+MODINFO ISSUES 2
+----------------
+ERROR: Mandatory field "category" is missing.
+ERROR: "category" field must be an array of strings.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 1
+-------------
+tmp/mods\com.pa.client.mirolog.boom\com.pa.client.mirolog.boom/pa/effects/specs/default_explosion_bot_t2.pfx:680:2 error: expected 'EOF' but got '{' instead
+ 677|            "endDistance": 3000
+ 678|        }
+ 679|    ]
+ 680|}{
+    | ^ expected 'EOF' but got '{' instead
+ 681|    "emitters": [
+
+
+
+

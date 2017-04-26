@@ -1,0 +1,38 @@
+MOD DETAILS
+===========
+      name: Ant4Lyf Mod
+identifier: com.pa.killerkiwijuice.antlyf
+    author: KillerKiwiJuice
+     forum: https://forums.uberent.com/threads/rel-ant4lyf-mod.66937/
+
+ISSUE SUMMARY 5
+---------------
+modinfo issues: 2
+ missing files: 2
+   json issues: 1
+
+MODINFO ISSUES 2
+----------------
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+WARNING: "category" array contains a redundant entry: server-mod. Please remove this entry.
+
+MISSING FILES 2
+---------------
+/pa/units/land/artillery_long/artillery_long_anim_aimUp.papa
+      referenced by tmp/mods\com.pa.killerkiwijuice.antlyf\Ant4Lyf-Mod-master\com.pa.killerkiwijuice.antlyf/pa/units/land/artillery_long/artillery_long.json
+/pa/units/land/base_unit/base_unit.json
+      referenced by tmp/mods\com.pa.killerkiwijuice.antlyf\Ant4Lyf-Mod-master\com.pa.killerkiwijuice.antlyf/pa/units/unit_list.json
+
+JSON ISSUES 1
+-------------
+tmp/mods\com.pa.killerkiwijuice.antlyf\Ant4Lyf-Mod-master\com.pa.killerkiwijuice.antlyf/pa/effects/specs/CPlosion.pfx:140:12 warning: ill-formed number
+ 137|		"velocity": 0.1,
+ 138|		"rotationRange": 1.14,
+ 139|		"sizeX": 1.6,
+ 140|		"sizeY": 1.,
+    |		         ^~ ill-formed number
+ 141|		"lifetime": 3.0,
+
+
+
+

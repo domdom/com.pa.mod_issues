@@ -1,0 +1,41 @@
+MOD DETAILS
+===========
+      name: CPlosion Titans
+identifier: nl.pa.Alpha.CPlosion
+    author: Alpha2546, dom314
+     forum: https://forums.uberent.com/threads/alphas-particle-effect-workshop-titans.70423/
+
+ISSUE SUMMARY 3
+---------------
+modinfo issues: 1
+ missing files: 0
+   json issues: 2
+
+MODINFO ISSUES 1
+----------------
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 2
+-------------
+tmp/mods\nl.pa.Alpha.CPlosion\CPlosion-32e1bcab744769172b959f2859ef88812f858dc0/mod/default_explosion_bot.pfx:763:3 warning: ill-formed number
+ 760|		"emissionRate": [[0,
+ 761|		12],
+ 762|		[5,
+ 763|		09],
+    |		^~ ill-formed number
+ 764|		[10,
+
+tmp/mods\nl.pa.Alpha.CPlosion\CPlosion-32e1bcab744769172b959f2859ef88812f858dc0/mod/default_explosion_bot.pfx:765:3 warning: ill-formed number
+ 762|		[5,
+ 763|		09],
+ 764|		[10,
+ 765|		05]],
+    |		^~ ill-formed number
+ 766|		"rotationRange": 3.14,
+
+
+
+

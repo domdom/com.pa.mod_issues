@@ -1,0 +1,24 @@
+MOD DETAILS
+===========
+      name: Icon Reloader (Obsolete)
+identifier: com.wondible.pa.icon_reloader
+    author: wondible
+     forum: https://forums.uberent.com/threads/rel-server-icon-reloader.70911/
+
+ISSUE SUMMARY 1
+---------------
+modinfo issues: 1
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 1
+----------------
+WARNING: "category" array contains a redundant entry: strategic-icons. Please use "icons" instead.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

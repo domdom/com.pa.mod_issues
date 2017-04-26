@@ -1,0 +1,27 @@
+MOD DETAILS
+===========
+      name: PA Bug Fix For Invisible Battleship (Leviathan)
+identifier: com.pa.kiwi.battleship_fix
+    author: KillerKiwiJuice
+     forum: 
+
+ISSUE SUMMARY 4
+---------------
+modinfo issues: 4
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 4
+----------------
+ERROR: Mandatory field "forum" is missing.
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+WARNING: "category" array contains a redundant entry: client-mod. Please remove this entry.
+WARNING: "category" array contains a redundant entry: bug-Fix. Please use "fix" instead.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

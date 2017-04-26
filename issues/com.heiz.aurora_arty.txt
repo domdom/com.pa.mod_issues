@@ -1,0 +1,29 @@
+MOD DETAILS
+===========
+      name: Aurora-Artillery
+identifier: com.heiz.aurora_arty
+    author: Heizmeister , Mirolog
+     forum: https://forums.uberent.com/threads/rel-server-units-aurora-artillery.71183/
+
+ISSUE SUMMARY 5
+---------------
+modinfo issues: 4
+ missing files: 1
+   json issues: 0
+
+MODINFO ISSUES 4
+----------------
+ERROR: Mandatory field "build" is missing.
+WARNING: "category" array contains a redundant entry: server. Please remove this entry.
+WARNING: "category" array contains a redundant entry: server-mod. Please remove this entry.
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+
+MISSING FILES 1
+---------------
+/pa/effects/specs/default_commander_explosion_air_ent.pfx
+      referenced by tmp/mods\com.heiz.aurora_arty\com.heiz.aurora_arty1.1-2.3/pa/units/orbital/orbital_armageddon/orbital_armageddon_ammo.json
+
+JSON ISSUES 0
+-------------
+
+

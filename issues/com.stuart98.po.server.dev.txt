@@ -1,0 +1,382 @@
+MOD DETAILS
+===========
+      name: Planetary Obliteration Alpha (WIP)
+identifier: com.stuart98.po.server.dev
+    author: Stuart98, (See credits.txt)
+     forum: https://forums.uberent.com/threads/wip-server-planetary-obliteration.71781/
+
+ISSUE SUMMARY 176
+-----------------
+modinfo issues: 0
+ missing files: 175
+   json issues: 1
+
+MODINFO ISSUES 0
+----------------
+
+MISSING FILES 175
+-----------------
+/pa/effects/textures/particles/square.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/effects/specs/legion_fab_spray.pfx
+/pa/units/vanilla/air/shell/shell.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/ammo/shell_tank/shell_tank.json
+/pa/effects/textures/particles/softerdot.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/sea/l_sea_tank/ram_hit.pfx
+/pa/units/vanilla/sea/torpedo/torpedo.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/ammo/torpedo/torpedo.json
+/pa/units/vanilla/air/shell_large/shell_large.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/ammo/base_artillery/base_artillery.json
+/pa/units/legion/sea/l_sea_tank/l_sea_tank_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/sea/l_sea_tank/l_sea_tank.json
+/pa/units/legion/land/l_bot_support_commander/l_bot_support_commander_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_support_commander/l_bot_support_commander.json
+/pa/units/legion/land/l_bot_support_commander/l_bot_support_commander_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_support_commander/l_bot_support_commander.json
+/pa/units/vanilla/air/bomb/bomb.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/ammo/bomb/bomb.json
+/pa/units/vanilla/air/atoa_missile/atoa_missile.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/ammo/missile_tactical/missile_tactical.json
+/pa/units/air/missile_tactical/missile_tactical_trail_catapult.pfx
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/tactical_missile_launcher/tactical_missile_launcher_ammo.json
+/pa/units/legion/land/l_fabrication_bot/l_fabrication_bot_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_fabrication_bot/l_fabrication_bot.json
+/pa/units/legion/land/l_fabrication_bot/l_fabrication_bot_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_fabrication_bot/l_fabrication_bot.json
+/pa/units/vanilla/sea/sonar/sonar_anim_work.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/sea/sonar/sonar.json
+/pa/units/legion/land/l_bot_heavy/l_bot_heavy_anim_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_heavy/l_bot_heavy.json
+/pa/units/legion/land/l_bot_heavy/l_bot_heavy_anim_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_heavy/l_bot_heavy.json
+/pa/units/legion/orbital/l_mining_platform/l_mining_platform_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_mining_platform/l_mining_platform.json
+/pa/units/legion/land/l_bot_factory/l_bot_factory_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_factory/l_bot_factory.json
+/pa/units/legion/land/l_bot_factory/l_bot_factory_build.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_factory/l_bot_factory.json
+/pa/units/legion/land/l_bot_factory/l_bot_factory_end.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_factory/l_bot_factory.json
+/pa/units/legion/land/l_bot_factory/l_bot_factory_start.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_factory/l_bot_factory.json
+/pa/units/legion/land/l_mex_adv/l_metal_extractor_adv_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_mex_adv/l_mex_adv.json
+/pa/units/legion/land/l_mex/l_metal_extractor_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_mex/l_mex.json
+/pa/units/legion/sea/l_naval_factory/l_naval_factory_end.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/sea/l_naval_factory/l_naval_factory.json
+/pa/units/legion/sea/l_naval_factory/l_naval_factory_build.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/sea/l_naval_factory/l_naval_factory.json
+/pa/units/legion/sea/l_naval_factory/l_naval_factory_start.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/sea/l_naval_factory/l_naval_factory.json
+/pa/units/legion/orbital/l_orbital_dropper/l_orbital_dropper_start.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_dropper/l_orbital_dropper.json
+/pa/units/legion/orbital/l_orbital_dropper/l_orbital_dropper_build.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_dropper/l_orbital_dropper.json
+/pa/units/legion/orbital/l_orbital_dropper/l_orbital_dropper_end.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_dropper/l_orbital_dropper.json
+/pa/units/vanilla/air/solar_drone/solar_drone_muzzle_flash.pfx
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/air/solar_drone/solar_drone.json
+/pa/units/vanilla/land/bot_artillery/bot_artillery_anim_death01.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/bot_mortar/bot_mortar.json
+/pa/units/vanilla/land/bot_artillery/bot_artillery_anim_aimDown.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/bot_mortar/bot_mortar.json
+/pa/units/vanilla/land/bot_artillery/bot_artillery_anim_aimUp.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/bot_mortar/bot_mortar.json
+/pa/units/vanilla/land/bot_artillery/bot_artillery_anim_run.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/bot_mortar/bot_mortar.json
+/pa/units/legion/air/l_air_scout_adv/l_air_scout_adv_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/air/l_air_scout_adv/l_air_scout_adv.json
+/pa/units/legion/land/l_assault_bot/l_assault_bot_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_assault_bot/l_assault_bot.json
+/pa/units/legion/land/l_assault_bot/l_assault_bot_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_assault_bot/l_assault_bot.json
+/pa/units/air/missile_tactical/missile_tactical_trail_sub.pfx
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/sea/nuclear_sub/nuclear_sub_ammo_missile.json
+/pa/units/legion/land/l_necromancer/l_necromancer_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_necromancer/l_necromancer.json
+/pa/effects/textures/particles/bullet_shell_texture.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_riot_bot/bullet_shells.pfx
+/pa/units/legion/land/l_necromancer/l_necromancer_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_necromancer/l_necromancer.json
+/pa/units/legion/land/l_bot_bomb/l_bot_bomb_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_bomb/l_bot_bomb.json
+/pa/units/legion/land/l_bot_bomb/l_bot_bomb_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_bomb/l_bot_bomb.json
+/pa/units/legion/land/l_riot_bot/l_riot_bot_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_riot_bot/l_riot_bot.json
+/pa/units/legion/land/l_riot_bot/l_riot_bot_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_riot_bot/l_riot_bot.json
+/pa/units/commanders/l_cyclops/l_cyclops_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_cyclops/l_cyclops.json
+/ui/main/shared/img/commanders/profiles/profile_l_cyclops.png
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_cyclops/l_cyclops.json
+/pa/units/commanders/l_cyclops/l_cyclops_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_cyclops/l_cyclops.json
+/ui/main/shared/img/commanders/thumbs/img_l_cyclops_thumb.png
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_cyclops/l_cyclops.json
+/ui/main/shared/img/commanders/img_l_cyclops.png
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_cyclops/l_cyclops.json
+/pa/units/legion/air/l_firestarter/l_firestarter_open.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/air/l_firestarter/l_firestarter.json
+/pa/units/vanilla/air/base_flyer/base_flyer_death_t2.pfx
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/air/l_firestarter/l_firestarter.json
+/pa/units/legion/sea/l_torpedo_launcher_adv/l_torpedo_launcher_adv_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/sea/l_torpedo_launcher_adv/l_torpedo_launcher_adv.json
+/pa/units/legion/orbital/l_orbital_railgun/l_orbital_railgun_open.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_railgun/l_orbital_railgun.json
+/pa/units/legion/orbital/l_orbital_railgun/l_orbital_railgun_closed.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_railgun/l_orbital_railgun.json
+/pa/effects/fbx/particles/l_radar_mesh.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_radar/l_radar_on.pfx
+/pa/units/legion/land/l_radar/l_radar_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_radar/l_radar.json
+/pa/units/legion/orbital/l_radar_satellite_adv/l_radar_satellite_adv_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_radar_satellite_adv/l_radar_satellite_adv.json
+/pa/units/legion/land/l_bot_artillery_adv/muzzle_flash.pfx
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_probe/l_orbital_probe.json
+/pa/units/legion/orbital/l_orbital_probe/l_orbital_probe_closed.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_probe/l_orbital_probe.json
+/pa/units/legion/orbital/l_orbital_probe/l_orbital_probe_open.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_probe/l_orbital_probe.json
+/pa/effects/fbx/particles/laser_beam_mesh.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/effects/specs/laser_beam.pfx
+/pa/units/commanders/l_wasushi/l_wasushi_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_wasushi/l_wasushi.json
+/pa/units/commanders/l_wasushi/l_wasushi_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_wasushi/l_wasushi.json
+/ui/main/shared/img/commanders/thumbs/img_l_wasushi_thumb.png
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_wasushi/l_wasushi.json
+/ui/main/shared/img/commanders/profiles/profile_l_wasushi.png
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_wasushi/l_wasushi.json
+/ui/main/shared/img/commanders/img_l_wasushi.png
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_wasushi/l_wasushi.json
+/pa/units/legion/air/l_flying_teleporter/l_flying_teleporter_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/air/l_flying_teleporter/l_flying_teleporter.json
+/pa/units/legion/orbital/l_titan_orbital/l_titan_orbital_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_titan_orbital/l_titan_orbital.json
+/pa/units/legion/land/l_air_defense/l_air_defense_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_air_defense/l_air_defense.json
+/pa/units/legion/land/l_bot_aa_adv/l_bot_aa_adv_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_aa_adv/l_bot_aa_adv.json
+/pa/units/legion/land/l_bot_aa_adv/l_bot_aa_adv_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_aa_adv/l_bot_aa_adv.json
+/pa/units/legion/land/l_sniper_bot/l_sniper_bot_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_sniper_bot/l_sniper_bot.json
+/pa/units/legion/land/l_sniper_bot/l_sniper_bot_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_sniper_bot/l_sniper_bot.json
+/pa/units/legion/orbital/l_orbital_factory/l_orbital_factory_start.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_factory/l_orbital_factory.json
+/pa/units/legion/orbital/l_orbital_factory/l_orbital_factory_end.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_factory/l_orbital_factory.json
+/pa/units/legion/orbital/l_orbital_factory/l_orbital_factory_build.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_factory/l_orbital_factory.json
+/pa/units/vanilla/land/bot_arty/bot_arty_anim_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/bot_arty/bot_arty.json
+/pa/units/vanilla/land/bot_arty/bot_arty_anim_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/bot_arty/bot_arty.json
+/pa/units/legion/land/l_scout_bot/l_scout_bot_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_scout_bot/l_scout_bot.json
+/pa/units/legion/land/l_scout_bot/radar_mode/l_scout_bot_radar_mode_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_scout_bot/l_scout_bot_radar_mode.json
+/pa/units/legion/land/l_scout_bot/l_scout_bot_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_scout_bot/l_scout_bot_radar_mode_collision_check.json
+/pa/units/vanilla/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv_anim_idleX.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv.json
+/pa/units/vanilla/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv_anim_death01X.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv.json
+/pa/units/vanilla/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv_anim_runX.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv.json
+/pa/units/legion/orbital/l_defense_satellite/l_defense_satellite_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_defense_satellite/l_defense_satellite.json
+/pa/units/legion/orbital/l_radar_satellite/l_radar_satellite_closed.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_radar_satellite/l_radar_satellite.json
+/pa/units/legion/orbital/l_radar_satellite/l_radar_satellite_open.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_radar_satellite/l_radar_satellite.json
+/pa/units/vanilla/sea/sonar_adv/sonar_adv_anim_work.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/sea/l_sonar_adv/l_sonar_adv.json
+/pa/units/vanilla/land/land_scout/land_scout_anim_drive.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/land_scout/land_scout.json
+/pa/units/legion/sea/l_naval_factory_adv/l_naval_factory_adv_end.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/sea/l_naval_factory_adv/l_naval_factory_adv.json
+/pa/units/legion/sea/l_naval_factory_adv/l_naval_factory_adv_build.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/sea/l_naval_factory_adv/l_naval_factory_adv.json
+/pa/units/legion/sea/l_naval_factory_adv/l_naval_factory_adv_start.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/sea/l_naval_factory_adv/l_naval_factory_adv.json
+/pa/units/legion/air/l_air_carrier/l_drone/l_drone_anim_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/air/l_air_carrier/l_drone/l_drone.json
+/pa/units/legion/air/l_air_carrier/l_drone/l_drone_anim_deploy.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/air/l_air_carrier/l_drone/l_drone.json
+/pa/units/legion/land/l_nuke_launcher/l_nuke_launcher_end.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_nuke_launcher/l_nuke_launcher.json
+/pa/units/legion/land/l_nuke_launcher/l_nuke_launcher_build.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_nuke_launcher/l_nuke_launcher.json
+/pa/units/legion/land/l_nuke_launcher/l_nuke_launcher_start.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_nuke_launcher/l_nuke_launcher.json
+/pa/units/legion/orbital/l_orbital_lander/l_orbital_lander_closed.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_lander/l_orbital_lander.json
+/pa/units/legion/orbital/l_orbital_lander/l_orbital_lander_open.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_lander/l_orbital_lander.json
+/pa/units/legion/land/l_bot_artillery/l_bot_artillery_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_artillery/l_bot_artillery.json
+/pa/units/legion/land/l_bot_artillery/l_bot_artillery_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_artillery/l_bot_artillery.json
+/pa/units/legion/air/l_air_factory_adv/l_air_factory_adv_build.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/air/l_air_factory_adv/l_air_factory_adv.json
+/pa/units/legion/air/l_air_factory_adv/l_air_factory_adv_end.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/air/l_air_factory_adv/l_air_factory_adv.json
+/pa/units/legion/air/l_air_factory_adv/l_air_factory_adv_start.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/air/l_air_factory_adv/l_air_factory_adv.json
+/pa/units/legion/land/l_vehicle_factory_adv/l_vehicle_factory_adv_start.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_vehicle_factory_adv/l_vehicle_factory_adv.json
+/pa/units/legion/land/l_vehicle_factory_adv/l_vehicle_factory_adv_build.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_vehicle_factory_adv/l_vehicle_factory_adv.json
+/pa/effects/fbx/particles/l_vehicle_factory_adv_energy_platform.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_vehicle_factory_adv/energy_platform_adv.pfx
+/pa/units/legion/land/l_vehicle_factory_adv/l_vehicle_factory_adv_end.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_vehicle_factory_adv/l_vehicle_factory_adv.json
+/pa/units/legion/land/l_flame_bot/l_flame_bot_anim_aimDown.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_flame_bot/l_flame_bot.json
+/pa/units/legion/land/l_flame_bot/l_flame_bot_anim_idle01.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_flame_bot/l_flame_bot.json
+/pa/units/legion/land/l_flame_bot/l_flame_bot_anim_aimUp.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_flame_bot/l_flame_bot.json
+/pa/units/legion/land/l_flame_bot/l_flame_bot_anim_walkStop.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_flame_bot/l_flame_bot.json
+/pa/units/legion/land/l_flame_bot/l_flame_bot_anim_walk01.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_flame_bot/l_flame_bot.json
+/pa/units/legion/sea/l_missile_ship/l_missile_ship_open.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/sea/l_missile_ship/l_missile_ship.json
+/pa/units/legion/air/l_air_factory/l_air_factory_start.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/air/l_air_factory/l_air_factory.json
+/pa/units/legion/air/l_air_factory/l_air_factory_build.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/air/l_air_factory/l_air_factory.json
+/pa/units/legion/air/l_air_factory/l_air_factory_end.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/air/l_air_factory/l_air_factory.json
+/pa/units/legion/orbital/l_orbital_fabrication_bot/l_orbital_fabrication_bot_open.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_fabrication_bot/l_orbital_fabrication_bot.json
+/pa/units/legion/orbital/l_orbital_fabrication_bot/l_orbital_fabrication_bot_closed.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_fabrication_bot/l_orbital_fabrication_bot.json
+/pa/units/vanilla/land/bot_skirmish/bot_skirmish_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/bot_skirmish/bot_skirmish.json
+/pa/units/vanilla/land/bot_skirmish/bot_skirmish_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/bot_skirmish/bot_skirmish.json
+/pa/units/legion/sea/l_battlecruiser/nassault23a_anim_fire.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/sea/l_battlecruiser/l_battlecruiser.json
+/pa/effects/fbx/particles/l_vehicle_factory_energy_platform.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_vehicle_factory/energy_platform.pfx
+/pa/units/legion/land/l_vehicle_factory/l_vehicle_factory_build.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_vehicle_factory/l_vehicle_factory.json
+/pa/units/legion/land/l_vehicle_factory/l_vehicle_factory_end.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_vehicle_factory/l_vehicle_factory.json
+/pa/units/legion/land/l_vehicle_factory/l_vehicle_factory_start.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_vehicle_factory/l_vehicle_factory.json
+/ui/main/shared/img/commanders/img_l_rockteeth.png
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_rockteeth/l_rockteeth.json
+/ui/main/shared/img/commanders/profiles/profile_l_rockteeth.png
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_rockteeth/l_rockteeth.json
+/pa/units/commanders/l_rockteeth/l_rockteeth_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_rockteeth/l_rockteeth.json
+/ui/main/shared/img/commanders/thumbs/img_l_rockteeth_thumb.png
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_rockteeth/l_rockteeth.json
+/pa/units/vanilla/land/bot_bomb/bot_bomb_ammo_explosion.pfx
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/land_mine/land_mine.json
+/pa/units/vanilla/land/tank_orbital/Vao13_anim_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/tank_orbital/tank_orbital.json
+/pa/units/legion/orbital/l_orbital_launcher/l_orbital_launcher_build.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_launcher/l_orbital_launcher.json
+/pa/units/legion/orbital/l_orbital_launcher/l_orbital_launcher_start.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_launcher/l_orbital_launcher.json
+/pa/units/legion/orbital/l_orbital_launcher/l_orbital_launcher_end.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_launcher/l_orbital_launcher.json
+/pa/units/legion/land/l_titan_bot/l_titan_bot_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_titan_bot/l_titan_bot.json
+/pa/units/legion/land/l_radar_adv/l_radar_adv_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_radar_adv/l_radar_adv.json
+/pa/units/legion/land/l_radar_adv/l_radar_adv_start.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_radar_adv/l_radar_adv.json
+/pa/units/legion/land/l_radar_adv/l_radar_adv_end.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_radar_adv/l_radar_adv.json
+/pa/effects/fbx/particles/energy_rods.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_sniper_tank/energy_rods.pfx
+/pa/units/vanilla/sea/drone_carrier/carrier/carrier_drone_launch.pfx
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/sea/drone_carrier/carrier/carrier.json
+/pa/units/legion/land/l_fabrication_bot_adv/l_fabrication_bot_adv_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_fabrication_bot_adv/l_fabrication_bot_adv.json
+/pa/units/legion/land/l_fabrication_bot_adv/l_fabrication_bot_adv_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_fabrication_bot_adv/l_fabrication_bot_adv.json
+/pa/units/vanilla/land/fabrication_bot_combat/fabrication_bot_combat_anim_death01X.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/fabrication_bot_combat/fabrication_bot_combat.json
+/pa/units/vanilla/land/fabrication_bot_combat/fabrication_bot_combat_anim_runX.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/fabrication_bot_combat/fabrication_bot_combat.json
+/pa/units/vanilla/land/fabrication_bot_combat/fabrication_bot_combat_anim_idleX.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/fabrication_bot_combat/fabrication_bot_combat.json
+/pa/units/legion/land/l_bot_factory_adv/l_bot_factory_adv_start.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_factory_adv/l_bot_factory_adv.json
+/pa/units/legion/land/l_bot_factory_adv/l_bot_factory_adv_build.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_factory_adv/l_bot_factory_adv.json
+/pa/units/legion/land/l_bot_factory_adv/l_bot_factory_adv_end.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_factory_adv/l_bot_factory_adv.json
+/pa/units/land/l_mortar_tank/l_mortar_explosion.pfx
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_mortar_tank/l_mortar_tank_ammo.json
+/pa/units/commanders/l_overwatch/l_overwatch_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_overwatch/l_overwatch.json
+/ui/main/shared/img/commanders/thumbs/img_l_overwatch_thumb.png
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_overwatch/l_overwatch.json
+/ui/main/shared/img/commanders/img_l_overwatch.png
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_overwatch/l_overwatch.json
+/pa/units/commanders/l_overwatch/l_overwatch_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_overwatch/l_overwatch.json
+/ui/main/shared/img/commanders/profiles/profile_l_overwatch.png
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/commanders/l_overwatch/l_overwatch.json
+/pa/effects/fbx/particles/l_energy_rod.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_artillery_long/back_hatch.pfx
+/pa/effects/fbx/particles/l_energy_rod_diffuse.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_artillery_long/back_hatch.pfx
+/pa/units/legion/land/l_energy_plant_adv/l_energy_plant_adv_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_energy_plant_adv/l_energy_plant_adv.json
+/pa/effects/fbx/particles/tele_wall.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_teleporter/idle.pfx
+/pa/units/legion/land/l_bot_aa/l_bot_aa_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_aa/l_bot_aa.json
+/pa/units/legion/land/l_bot_aa/l_bot_aa_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_aa/l_bot_aa.json
+/pa/units/vanilla/land/bot_aa_adv/bot_aa_adv_anim_death01.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/bot_aa_adv/bot_aa_adv.json
+/pa/units/vanilla/land/bot_aa_adv/bot_aa_adv_anim_run.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/bot_aa_adv/bot_aa_adv.json
+/pa/units/vanilla/land/bot_aa_adv/bot_aa_adv_anim_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/bot_aa_adv/bot_aa_adv.json
+/pa/units/vanilla/land/bot_aa_adv/bot_aa_adv_anim_aimUp.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/bot_aa_adv/bot_aa_adv.json
+/pa/units/vanilla/land/bot_aa_adv/bot_aa_adv_anim_aimDown.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/bot_aa_adv/bot_aa_adv.json
+/pa/units/legion/orbital/l_orbital_fighter/l_orbital_fighter_open.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_orbital_fighter/l_orbital_fighter.json
+/pa/units/legion/orbital/l_delta_v_engine/l_delta_v_engine_start.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_delta_v_engine/l_delta_v_engine.json
+/pa/units/legion/orbital/l_delta_v_engine/l_delta_v_engine_end.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/orbital/l_delta_v_engine/l_delta_v_engine.json
+/pa/units/legion/air/l_air_bomb/l_air_bomb_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/air/l_air_bomb/l_air_bomb.json
+/pa/units/vanilla/land/bot_sniper/bot_sniper_beam_flash.pfx
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/vanilla/land/bot_sniper/bot_sniper.json
+/pa/units/legion/land/l_bot_orbital/ao32_anim_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_orbital/l_bot_orbital.json
+/pa/units/legion/land/l_bot_orbital/ao32_anim_idle.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_orbital/l_bot_orbital.json
+/pa/units/legion/land/l_bot_morty_adv/l_bot_morty_adv_anim_walk.papa
+      referenced by tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/units/legion/land/l_bot_morty_adv/l_bot_morty_adv.json
+
+JSON ISSUES 1
+-------------
+tmp/mods\com.stuart98.po.server.dev\Planetary-Obliteration-Server---Release-po.dev.server_alpha_rel.121\com.stuart98.po.server/pa/effects/specs/default_explosion_bot_t2.pfx:680:2 error: expected 'EOF' but got '{' instead
+ 677|            "endDistance": 3000
+ 678|        }
+ 679|    ]
+ 680|}{
+    | ^ expected 'EOF' but got '{' instead
+ 681|    "emitters": [
+
+
+
+

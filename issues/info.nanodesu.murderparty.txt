@@ -1,0 +1,48 @@
+MOD DETAILS
+===========
+      name: Murder Party
+identifier: info.nanodesu.murderparty
+    author: Cola_Colin
+     forum: 
+
+ISSUE SUMMARY 15
+----------------
+modinfo issues: 5
+ missing files: 10
+   json issues: 0
+
+MODINFO ISSUES 5
+----------------
+ERROR: Mandatory field "build" is missing.
+ERROR: Mandatory field "category" is missing.
+ERROR: Mandatory field "date" is missing.
+ERROR: Mandatory field "forum" is missing.
+ERROR: "category" field must be an array of strings.
+
+MISSING FILES 10
+----------------
+/pa/units/sea/sonar_adv/sonar_adv.json
+      referenced by tmp/mods\info.nanodesu.murderparty\servermod-murderparty-be866e556bd2368937708dcf5a921fc8c8dea8bf\murderParty/pa/units/unit_list.json
+/pa/units/land/tank_amphibious_adv/tank_amphibious_adv.json
+      referenced by tmp/mods\info.nanodesu.murderparty\servermod-murderparty-be866e556bd2368937708dcf5a921fc8c8dea8bf\murderParty/pa/units/unit_list.json
+/pa/units/sea/sonar/sonar.json
+      referenced by tmp/mods\info.nanodesu.murderparty\servermod-murderparty-be866e556bd2368937708dcf5a921fc8c8dea8bf\murderParty/pa/units/unit_list.json
+/pa/units/air/missile/missile.json
+      referenced by tmp/mods\info.nanodesu.murderparty\servermod-murderparty-be866e556bd2368937708dcf5a921fc8c8dea8bf\murderParty/pa/units/unit_list.json
+/pa/units/sea/fabrication_sub/fabrication_sub.json
+      referenced by tmp/mods\info.nanodesu.murderparty\servermod-murderparty-be866e556bd2368937708dcf5a921fc8c8dea8bf\murderParty/pa/units/unit_list.json
+/pa/units/air/missile_orbital_booster/missile_orbital_booster.json
+      referenced by tmp/mods\info.nanodesu.murderparty\servermod-murderparty-be866e556bd2368937708dcf5a921fc8c8dea8bf\murderParty/pa/units/unit_list.json
+/pa/units/orbital/orbital_egg/orbital_egg.json
+      referenced by tmp/mods\info.nanodesu.murderparty\servermod-murderparty-be866e556bd2368937708dcf5a921fc8c8dea8bf\murderParty/pa/units/unit_list.json
+/pa/units/land/amphibious_bot/amphibious_bot.json
+      referenced by tmp/mods\info.nanodesu.murderparty\servermod-murderparty-be866e556bd2368937708dcf5a921fc8c8dea8bf\murderParty/pa/units/unit_list.json
+/pa/units/air/missile_orbital/missile_orbital.json
+      referenced by tmp/mods\info.nanodesu.murderparty\servermod-murderparty-be866e556bd2368937708dcf5a921fc8c8dea8bf\murderParty/pa/units/unit_list.json
+/pa/units/land/base_unit/base_unit.json
+      referenced by tmp/mods\info.nanodesu.murderparty\servermod-murderparty-be866e556bd2368937708dcf5a921fc8c8dea8bf\murderParty/pa/units/unit_list.json
+
+JSON ISSUES 0
+-------------
+
+

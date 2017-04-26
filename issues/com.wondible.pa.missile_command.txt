@@ -1,0 +1,24 @@
+MOD DETAILS
+===========
+      name: Missile Command
+identifier: com.wondible.pa.missile_command
+    author: wondible
+     forum: https://forums.uberent.com/threads/rel-missile-command-2-0-2.58542/
+
+ISSUE SUMMARY 1
+---------------
+modinfo issues: 1
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 1
+----------------
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

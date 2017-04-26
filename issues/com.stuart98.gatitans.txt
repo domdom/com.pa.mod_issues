@@ -1,0 +1,108 @@
+MOD DETAILS
+===========
+      name: Galactic Annihilation Titans v2.26
+identifier: com.stuart98.gatitans
+    author: Stuart98
+     forum: https://forums.uberent.com/threads/soon.70525/
+
+ISSUE SUMMARY 39
+----------------
+modinfo issues: 0
+ missing files: 38
+   json issues: 1
+
+MODINFO ISSUES 0
+----------------
+
+MISSING FILES 38
+----------------
+/pa/units/sea/sonar_adv/sonar_adv_anim_work.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/sea/sonar_adv/sonar_adv.json
+/pa/units/air/fighter_beam/fighter_beam_beam_hit.pfx
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/air/fighter_beam/fighter_beam_ammo.json
+/pa/units/land/amphibious_fabricator/Bfab21_anim_walk.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/amphibious_fabricator/amphibious_fabricator.json
+/pa/units/land/amphibious_fabricator/Bfab21_anim_idle.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/amphibious_fabricator/amphibious_fabricator.json
+/pa/units/sea/sonar/sonar_anim_work.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/sea/sonar/sonar.json
+/pa/units/land/fabrication_bot_combat/fabrication_bot_combat_anim_idleX.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/fabrication_bot_combat/fabrication_bot_combat.json
+/pa/units/land/fabrication_bot_combat/fabrication_bot_combat_anim_runX.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/fabrication_bot_combat/fabrication_bot_combat.json
+/pa/units/land/fabrication_bot_combat/fabrication_bot_combat_anim_death01X.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/fabrication_bot_combat/fabrication_bot_combat.json
+/pa/units/sea/battlecruiser/nassault23a_anim_fire.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/sea/battlecruiser/battlecruiser.json
+/pa/units/land/megabot/megabot_missile_ammo.json
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_tactical_missile/bot_tactical_missile_tool_antidrop.json
+/pa/units/land/tank_orbital/Vao13_anim_idle.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/tank_orbital/tank_orbital.json
+/pa/units/land/bot_artillery_adv/bot_artillery_adv_anim_death01.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_raider/bot_raider.json
+/pa/units/land/bot_artillery_adv/bot_artillery_adv_anim_aimUp.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_raider/bot_raider.json
+/pa/units/land/bot_artillery_adv/bot_artillery_adv_anim_run.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_raider/bot_raider.json
+/pa/units/land/hover_aa/Vaa22_anim_idle.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/hover_aa/hover_aa.json
+/pa/units/land/hover_artillery/Vartillery23_anim_idle.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/hover_artillery/hover_artillery.json
+/pa/units/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv_anim_idleX.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv.json
+/pa/units/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv_anim_death01X.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv.json
+/pa/units/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv_anim_runX.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv.json
+/pa/units/land/bot_arty/bot_arty_anim_walkX.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_arty/bot_arty.json
+/pa/units/land/bot_arty/bot_arty_anim_idleX.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_arty/bot_arty.json
+/pa/units/land/raptor_bot_1/raptor_bot_1_anim_walkX.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/raptor_bot_1/raptor_bot_1.json
+/pa/units/land/raptor_bot_1/raptor_bot_1_anim_idleX.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/raptor_bot_1/raptor_bot_1.json
+/pa/units/land/bot_artillery/bot_artillery_anim_aimDown.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_mortar/bot_mortar.json
+/pa/units/land/bot_artillery/bot_artillery_anim_death01.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_mortar/bot_mortar.json
+/pa/units/land/bot_artillery/bot_artillery_anim_aimUp.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_mortar/bot_mortar.json
+/pa/units/land/bot_artillery/bot_artillery_anim_run.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_mortar/bot_mortar.json
+/pa/units/land/bot_orbital/Bao32_anim_idle.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_orbital/bot_orbital.json
+/pa/units/land/bot_orbital/Bao32_anim_walk.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_orbital/bot_orbital.json
+/pa/units/orbital/deep_space_radar_basic/orbital_radar_basic_closed.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/orbital/deep_space_radar_basic/deep_space_radar_basic.json
+/pa/units/orbital/deep_space_radar_basic/orbital_radar_basic_start.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/orbital/deep_space_radar_basic/deep_space_radar_basic.json
+/pa/units/orbital/deep_space_radar_basic/orbital_radar_basic_end.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/orbital/deep_space_radar_basic/deep_space_radar_basic.json
+/pa/units/orbital/deep_space_radar_basic/orbital_radar_basic_loop.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/orbital/deep_space_radar_basic/deep_space_radar_basic.json
+/pa/units/land/bot_aa_adv/bot_aa_adv_anim_aimDownX.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_aa_adv/bot_aa_adv.json
+/pa/units/land/bot_aa_adv/bot_aa_adv_anim_runX.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_aa_adv/bot_aa_adv.json
+/pa/units/land/bot_aa_adv/bot_aa_adv_anim_idleX.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_aa_adv/bot_aa_adv.json
+/pa/units/land/bot_aa_adv/bot_aa_adv_anim_death01X.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_aa_adv/bot_aa_adv.json
+/pa/units/land/bot_aa_adv/bot_aa_adv_anim_aimUpX.papa
+      referenced by tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/units/land/bot_aa_adv/bot_aa_adv.json
+
+JSON ISSUES 1
+-------------
+tmp/mods\com.stuart98.gatitans\com.stuart98.gaserver-imanidiot\com.stuart98.gatitans/pa/effects/specs/default_explosion_bot_t2.pfx:680:2 error: expected 'EOF' but got '{' instead
+ 677|            "endDistance": 3000
+ 678|        }
+ 679|    ]
+ 680|}{
+    | ^ expected 'EOF' but got '{' instead
+ 681|    "emitters": [
+
+
+
+

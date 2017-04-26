@@ -1,0 +1,28 @@
+MOD DETAILS
+===========
+      name: Cliff Planets
+identifier: com.aevns.server.acliffplanets
+    author: ae
+     forum: 
+
+ISSUE SUMMARY 5
+---------------
+modinfo issues: 5
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 5
+----------------
+ERROR: Mandatory field "build" is missing.
+ERROR: Mandatory field "date" is missing.
+ERROR: Mandatory field "forum" is missing.
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+WARNING: "category" array contains a redundant entry: server-mod. Please remove this entry.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

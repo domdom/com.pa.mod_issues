@@ -1,0 +1,25 @@
+MOD DETAILS
+===========
+      name: PA-FX Classic
+identifier: com.uberent.pa.PAFX.classic
+    author: Alpha2546, Fr33Lancer, dom314
+     forum: https://forums.uberent.com/threads/rel-pa-fx-moar-effects-in-pa-75499.66155/
+
+ISSUE SUMMARY 2
+---------------
+modinfo issues: 2
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 2
+----------------
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+WARNING: "category" array contains a redundant entry: buildings. Please use "units" instead.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

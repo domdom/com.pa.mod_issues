@@ -1,0 +1,39 @@
+MOD DETAILS
+===========
+      name: Boom Bot Wars
+identifier: com.pa.burntcustard.bBoomBotWars
+    author: burntcustard
+     forum: https://forums.uberent.com/threads/rel-boom-bot-wars.61879/
+
+ISSUE SUMMARY 6
+---------------
+modinfo issues: 2
+ missing files: 3
+   json issues: 1
+
+MODINFO ISSUES 2
+----------------
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+WARNING: "category" array contains a redundant entry: server-mod. Please remove this entry.
+
+MISSING FILES 3
+---------------
+metal/s.
+      referenced by tmp/mods\com.pa.burntcustard.bBoomBotWars\bBoomBotWars-1.6/pa/units/land/artillery_long/artillery_long.json
+/pa/units/land/artillery_long/artillery_long_anim_aimUp.papa
+      referenced by tmp/mods\com.pa.burntcustard.bBoomBotWars\bBoomBotWars-1.6/pa/units/land/artillery_long/artillery_long.json
+/pa/units/land/base_unit/base_unit.json
+      referenced by tmp/mods\com.pa.burntcustard.bBoomBotWars\bBoomBotWars-1.6/pa/units/unit_list.json
+
+JSON ISSUES 1
+-------------
+tmp/mods\com.pa.burntcustard.bBoomBotWars\bBoomBotWars-1.6/pa/units/land/vehicle_factory_adv/vehicle_factory_adv.json:337:1 error: expected 'EOF' but got '}' instead
+ 334|    "collision_layers":"WL_AnyHorizontalGroundOrWaterSurface"
+ 335|  }
+ 336|}
+ 337|} 
+    |^ expected 'EOF' but got '}' instead
+
+
+
+

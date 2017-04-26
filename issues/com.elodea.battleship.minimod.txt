@@ -1,0 +1,28 @@
+MOD DETAILS
+===========
+      name: Battleship
+identifier: com.elodea.battleship.minimod
+    author: Elodea
+     forum: https://forums.uberent.com/threads/rel-battleship.70716
+
+ISSUE SUMMARY 4
+---------------
+modinfo issues: 3
+ missing files: 1
+   json issues: 0
+
+MODINFO ISSUES 3
+----------------
+ERROR: Mandatory field "signature" is missing.
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+WARNING: "category" array contains a redundant entry: server-mod. Please remove this entry.
+
+MISSING FILES 1
+---------------
+/pa/units/sea/missile_ship_aa_ammo.json
+      referenced by tmp/mods\com.elodea.battleship.minimod\com.pa.elodea.battleship.minimod/pa/units/air/fighter_adv/fighter_adv_ciws_tool_weapon.json
+
+JSON ISSUES 0
+-------------
+
+

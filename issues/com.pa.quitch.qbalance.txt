@@ -1,0 +1,33 @@
+MOD DETAILS
+===========
+      name: Very Boring and Conservative Balance Mod
+identifier: com.pa.quitch.qbalance
+    author: Quitch
+     forum: https://forums.uberent.com/threads/rel-very-boring-and-conservative-balance-mod.72389/
+
+ISSUE SUMMARY 5
+---------------
+modinfo issues: 0
+ missing files: 5
+   json issues: 0
+
+MODINFO ISSUES 0
+----------------
+
+MISSING FILES 5
+---------------
+/pa/units/land/tank_laser_adv/tank_laser_adv_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.quitch.qbalance\Very-Conservative-and-Boring-Balance-Mod-0.1.3/pa/units/land/tank_laser_adv/tank_laser_adv_ammo.json
+/pa/units/land/tank_laser_adv/tank_laser_adv_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.quitch.qbalance\Very-Conservative-and-Boring-Balance-Mod-0.1.3/pa/units/land/tank_laser_adv/tank_laser_adv_ammo.json
+/pa/units/land/l_hover_tank_adv/l_hover_tank_adv_ammo.json
+      referenced by tmp/mods\com.pa.quitch.qbalance\Very-Conservative-and-Boring-Balance-Mod-0.1.3/pa/units/land/bot_sniper/bot_sniper_beam_tool_weapon.json
+/pa/units/land/bot_sniper/bot_sniper_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.quitch.qbalance\Very-Conservative-and-Boring-Balance-Mod-0.1.3/pa/units/land/bot_sniper/bot_sniper_ammo.json
+/pa/units/land/bot_sniper/bot_sniper_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.quitch.qbalance\Very-Conservative-and-Boring-Balance-Mod-0.1.3/pa/units/land/bot_sniper/bot_sniper_ammo.json
+
+JSON ISSUES 0
+-------------
+
+

@@ -1,0 +1,25 @@
+MOD DETAILS
+===========
+      name: Rainbow: Commander Landing
+identifier: com.pa.domdom.rainbow.landing
+    author: dom314
+     forum: https://forums.uberent.com/threads/rel-client-rainbow-commander-landing.68501/
+
+ISSUE SUMMARY 2
+---------------
+modinfo issues: 2
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 2
+----------------
+ERROR: Mandatory field "signature" is missing.
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

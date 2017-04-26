@@ -1,0 +1,887 @@
+MOD DETAILS
+===========
+      name: Legion Expansion
+identifier: com.pa.legion-expansion-server
+    author: Nicb1, KillerKiwiJuice, MgMetal13, Crembels, zx0, MikeyH, Alpha2546, PRoeleert, wondible, Quitch, Stuart98, dom314, Elodea, Graushwein, CptConundrum
+     forum: https://forums.uberent.com/threads/rel-legion-expansion-released.71680/
+
+ISSUE SUMMARY 432
+-----------------
+modinfo issues: 0
+ missing files: 432
+   json issues: 0
+
+MODINFO ISSUES 0
+----------------
+
+MISSING FILES 432
+-----------------
+/pa/units/land/l_t1_turret_adv/t1_turret_beam_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_t1_turret_adv/l_t1_turret_adv_ammo.json
+/pa/units/land/l_t1_turret_adv/t1_turret_beam.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_t1_turret_adv/l_t1_turret_adv_ammo.json
+/pa/units/land/l_t1_turret_adv/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_t1_turret_adv/l_t1_turret_adv.json
+/pa/units/orbital/l_orbital_battleship/orbital_jets.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_battleship/l_orbital_battleship.json
+/pa/units/orbital/l_orbital_battleship/main_proj_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_battleship/l_orbital_battleship_main_ammo.json
+/pa/units/orbital/l_orbital_battleship/main_proj_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_battleship/l_orbital_battleship_main_ammo.json
+/pa/units/orbital/l_orbital_battleship/main_muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_battleship/l_orbital_battleship.json
+/pa/units/air/l_air_carrier/l_drone/l_drone_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_carrier/l_air_carrier_ammo.json
+/pa/units/air/l_air_carrier/l_drone/l_drone_jets.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_carrier/l_drone/l_drone.json
+/pa/units/air/l_air_carrier/l_drone/l_drone_anim_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_carrier/l_drone/l_drone.json
+/pa/units/air/l_air_carrier/l_drone/l_drone_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_carrier/l_drone/l_drone_ammo.json
+/pa/units/air/l_air_carrier/l_drone/l_drone_anim_deploy.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_carrier/l_drone/l_drone.json
+/pa/units/orbital/l_orbital_battleship/orbital_jets_big.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_battleship/l_orbital_battleship.json
+/pa/units/sea/l_battleship/t2_muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_battleship/l_orbital_battleship.json
+/pa/units/sea/l_naval_factory/l_naval_factory.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_naval_factory/l_naval_factory.json
+/pa/units/sea/l_naval_factory/l_naval_factory_end.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_naval_factory/l_naval_factory.json
+/pa/units/sea/l_naval_factory/l_naval_factory_build.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_naval_factory/l_naval_factory.json
+/pa/effects/specs/legion_factory_spray.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_naval_factory/l_naval_factory.json
+/pa/units/sea/l_naval_factory/l_naval_factory_start.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_naval_factory/l_naval_factory.json
+/pa/units/air/l_bomber/l_bomber_proj_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_fighter/l_orbital_fighter_ammo.json
+/pa/units/orbital/l_orbital_fighter/proj_exp.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_fighter/l_orbital_fighter_ammo.json
+/pa/units/orbital/l_orbital_fighter/thrusters.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_fighter/l_orbital_fighter.json
+/pa/units/orbital/l_orbital_fighter/l_orbital_fighter_open.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_fighter/l_orbital_fighter.json
+/pa/units/orbital/l_orbital_fighter/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_fighter/l_orbital_fighter.json
+/pa/units/land/l_tank_laser_adv/trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_tank_laser_adv/l_tank_laser_adv_ammo.json
+/pa/units/land/l_tank_laser_adv/proj_exp.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_tank_laser_adv/l_tank_laser_adv_ammo.json
+/pa/units/land/l_tank_laser_adv/muzzle_ball.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_tank_laser_adv/l_tank_laser_adv.json
+/pa/units/land/l_tank_laser_adv/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_tank_laser_adv/l_tank_laser_adv.json
+/pa/units/land/laser_defense_adv/laser_defense_adv_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/laser_defense_adv/laser_defense_adv_ammo.json
+/pa/units/land/artillery_long/artillery_long_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/artillery_long/artillery_long_ammo.json
+/pa/units/land/artillery_long/artillery_long_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/artillery_long/artillery_long_ammo.json
+/pa/units/land/l_scout_bot/radar_mode/l_scout_bot_radar_mode.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_scout_bot/l_scout_bot_radar_mode.json
+/pa/units/land/l_scout_bot/radar_mode/l_scout_bot_radar_mode_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_scout_bot/l_scout_bot_radar_mode.json
+/pa/units/land/l_scout_bot/l_scout_bot_superman_debris_water.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_scout_bot/l_scout_bot_water_ent.json
+/pa/units/land/l_bot_bomb/rocket_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_scout_bot/l_scout_bot_land_ammo.json
+/pa/effects/specs/none.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_scout_bot/l_scout_bot_land_ammo.json
+/pa/units/land/l_scout_bot/l_scout_bot_superman_debris.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_scout_bot/l_scout_bot_land_ent.json
+/pa/units/land/l_scout_bot/l_scout_bot_radar_on.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_scout_bot/l_scout_bot_radar_mode_collision_check.json
+/pa/units/land/l_scout_bot/l_scout_bot_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_scout_bot/l_scout_bot_radar_mode_collision_check.json
+/pa/units/land/l_scout_bot/l_scout_bot_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_scout_bot/l_scout_bot_radar_mode_collision_check.json
+/pa/effects/specs/laser_beam.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_rocket_barrage/l_rocket_barrage.json
+/pa/units/land/l_rocket_barrage/vent_smoke.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_rocket_barrage/l_rocket_barrage.json
+/pa/units/land/l_rocket_barrage/back_smoke.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_rocket_barrage/l_rocket_barrage.json
+/pa/units/sea/l_sea_scout/beam_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_sea_scout/l_sea_scout_ammo.json
+/pa/units/sea/l_sea_scout/beam_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_sea_scout/l_sea_scout_ammo.json
+/pa/effects/specs/legion_fab_spray.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_support_commander/l_bot_support_commander.json
+/pa/units/land/l_bot_support_commander/l_bot_support_commander_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_support_commander/l_bot_support_commander.json
+/pa/effects/specs/small_gun_smoke.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_support_commander/l_bot_support_commander.json
+/pa/units/land/l_bot_support_commander/l_bot_support_commander_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_support_commander/l_bot_support_commander.json
+/pa/units/air/l_fighter/beam_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_frigate/l_frigate_ammo_aa.json
+/pa/units/air/l_fighter/beam_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_frigate/l_frigate_ammo_aa.json
+/pa/units/air/l_fighter/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_frigate/l_frigate.json
+/pa/units/air/l_fabrication_aircraft_adv/l_fabrication_aircraft_adv_fly.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_fabrication_aircraft_adv/l_fabrication_aircraft_adv.json
+/pa/units/air/l_transport/l_transport_fly.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_transport/l_transport.json
+/pa/effects/specs/naval_trail_sub.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_attack_sub/l_attack_sub.json
+/pa/effects/specs/naval_bubbles_sub.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_attack_sub/l_attack_sub.json
+/pa/units/land/l_flame_turret/flame.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_flame_turret/l_flame_turret.json
+/pa/units/land/l_flame_turret/fire.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_flame_turret/l_flame_turret.json
+/pa/effects/specs/flame_death.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_flame_turret/l_flame_turret_ammo.json
+/pa/units/land/l_anti_nuke_launcher/l_anti_nuke_launcher_ammo_explosion.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_anti_nuke_launcher/l_anti_nuke_launcher_ammo.json
+/pa/units/land/l_anti_nuke_launcher/l_anti_nuke_launcher_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_anti_nuke_launcher/l_anti_nuke_launcher_ammo.json
+/pa/units/land/l_titan_bot/beam.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_bot/l_titan_bot_mega_laser_ammo.json
+/pa/units/land/l_titan_bot/beam_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_bot/l_titan_bot_mega_laser_ammo.json
+/pa/units/land/l_titan_bot/back_fire.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_bot/l_titan_bot.json
+/pa/units/land/l_titan_bot/back_smoke.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_bot/l_titan_bot.json
+/pa/units/land/l_titan_bot/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_bot/l_titan_bot.json
+/pa/units/land/l_titan_bot/trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_bot/l_titan_bot_rocket_ammo.json
+/pa/units/land/l_titan_bot/vent_smoke.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_bot/l_titan_bot.json
+/pa/units/land/l_titan_bot/left_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_bot/l_titan_bot_cannon_ammo.json
+/pa/units/land/l_titan_bot/titan_bot_death.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_bot/l_titan_bot.json
+/pa/units/land/l_titan_bot/l_titan_bot_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_bot/l_titan_bot.json
+/pa/effects/specs/big_gun_smoke.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_bot/l_titan_bot.json
+/pa/units/land/l_titan_bot/electricity_field.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_bot/l_titan_bot.json
+/pa/units/land/l_air_defense_adv/launch_smoke.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_air_defense_adv/l_air_defense_adv.json
+/pa/units/land/l_hover_tank_adv/trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_air_defense_adv/l_air_defense_adv_ammo.json
+/pa/units/land/l_teleporter/idle.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_teleporter/l_teleporter.json
+/pa/units/land/l_teleporter/enable.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_teleporter/l_teleporter.json
+/pa/units/land/l_teleporter/disable.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_teleporter/l_teleporter.json
+/pa/units/sea/l_sea_mine/l_sea_mine_float.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_sea_mine/l_sea_mine.json
+/pa/units/orbital/l_radar_satellite_adv/radar_on.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_radar_satellite_adv/l_radar_satellite_adv.json
+/pa/units/orbital/l_radar_satellite_adv/l_radar_satellite_adv_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_radar_satellite_adv/l_radar_satellite_adv.json
+/pa/units/sea/l_destroyer/t1_shell_proj_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_destroyer/l_destroyer_ammo.json
+/pa/units/sea/l_destroyer/t1_shell_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_destroyer/l_destroyer_ammo.json
+/pa/units/sea/l_destroyer/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_destroyer/l_destroyer.json
+/pa/units/land/l_riot_bot/bullet_shells.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_riot_bot/l_riot_bot.json
+/pa/units/land/l_riot_bot/ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_riot_bot/l_riot_bot_ammo.json
+/pa/units/land/l_riot_bot/riot_proj_explosion.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_riot_bot/l_riot_bot_ammo.json
+/pa/units/land/l_riot_bot/bullet_shells_left.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_riot_bot/l_riot_bot.json
+/pa/units/land/l_riot_bot/l_riot_bot_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_riot_bot/l_riot_bot.json
+/pa/units/land/l_riot_bot/l_riot_bot_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_riot_bot/l_riot_bot.json
+/pa/effects/specs/plasma_ball_with_sparks_long.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_hover_ship/l_hover_ship_ammo.json
+/pa/units/land/l_mortar_tank/l_mortar_tank_ammo_proj_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_hover_ship/l_hover_ship_ammo_side.json
+/pa/units/land/l_necromancer/l_necromancer_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_necromancer/l_necromancer.json
+/pa/units/land/l_necromancer/death_weapon/explosion.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_necromancer/death_weapon/necromancer_explosion.json
+/pa/units/land/l_necromancer/minion/rocket_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_necromancer/minion/minion_ammo.json
+/pa/units/land/l_bot_bomb/l_bot_bomb_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_bomb/l_bot_bomb.json
+/pa/units/land/l_bot_bomb/l_bot_bomb_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_bomb/l_bot_bomb.json
+/pa/units/land/l_necromancer/death_weapon/teleport.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_necromancer/l_necromancer_ammo.json
+/pa/units/land/l_necromancer/l_necromancer_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_necromancer/l_necromancer.json
+/pa/units/sea/l_battleship/main_gun_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_battleship/l_battleship_upper_ammo.json
+/pa/units/sea/l_battleship/main_gun_exp.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_battleship/l_battleship_upper_ammo.json
+/pa/units/sea/l_battleship/idle.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_battleship/l_battleship.json
+/pa/units/land/l_bot_aa/l_bot_aa_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_aa/l_bot_aa.json
+/pa/units/land/l_bot_aa/l_bot_aa_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_aa/l_bot_aa.json
+/pa/effects/specs/factory_smoke.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_vehicle_factory_adv/l_vehicle_factory_adv.json
+/pa/units/land/l_vehicle_factory_adv/l_vehicle_factory_adv_start.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_vehicle_factory_adv/l_vehicle_factory_adv.json
+/pa/units/land/l_vehicle_factory_adv/energy_platform_adv.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_vehicle_factory_adv/l_vehicle_factory_adv.json
+/pa/units/land/l_vehicle_factory_adv/l_vehicle_factory_adv_end.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_vehicle_factory_adv/l_vehicle_factory_adv.json
+/pa/effects/specs/legion_factory_spray_short.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_vehicle_factory_adv/l_vehicle_factory_adv.json
+/pa/units/land/l_vehicle_factory_adv/l_vehicle_factory_adv_build.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_vehicle_factory_adv/l_vehicle_factory_adv.json
+/pa/effects/specs/factory_smoke_big.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_vehicle_factory_adv/l_vehicle_factory_adv.json
+/pa/units/commanders/l_cyclops/l_cyclops_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_cyclops/l_cyclops.json
+/pa/effects/specs/uber_proj_trail_legion.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/ammo/l_cannon_uber/l_cannon_uber.json
+/pa/effects/specs/uber_proj_explosion_legion.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/ammo/l_cannon_uber/l_cannon_uber.json
+/ui/main/shared/img/commanders/profiles/profile_l_cyclops.png
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_cyclops/l_cyclops.json
+/pa/units/commanders/l_cyclops/l_cyclops_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_cyclops/l_cyclops.json
+/ui/main/shared/img/commanders/thumbs/img_l_cyclops_thumb.png
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_cyclops/l_cyclops.json
+/ui/main/shared/img/commanders/img_l_cyclops.png
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_cyclops/l_cyclops.json
+/pa/units/air/l_firestarter/l_drop_turret/fire.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_firestarter/l_drop_turret/l_drop_turret.json
+/pa/units/land/l_bot_factory/l_bot_factory_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_factory/l_bot_factory.json
+/pa/units/land/l_bot_factory/l_bot_factory_end.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_factory/l_bot_factory.json
+/pa/units/land/l_bot_factory/l_bot_factory_start.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_factory/l_bot_factory.json
+/pa/units/land/l_bot_factory/l_bot_factory_build.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_factory/l_bot_factory.json
+/pa/units/air/bomber_heavy/bomber_heavy_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/bomber_heavy/bomber_heavy_ammo.json
+/pa/units/air/bomber_heavy/bomber_heavy_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/bomber_heavy/bomber_heavy_ammo.json
+/pa/units/air/l_fabrication_aircraft/l_fabrication_aircraft_fly.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_fabrication_aircraft/l_fabrication_aircraft.json
+/pa/units/orbital/l_orbital_launcher/l_orbital_launcher_end.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_launcher/l_orbital_launcher.json
+/pa/units/orbital/l_orbital_launcher/vent_smoke.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_launcher/l_orbital_launcher.json
+/pa/units/orbital/l_orbital_launcher/l_orbital_launcher_build.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_launcher/l_orbital_launcher.json
+/pa/units/orbital/l_orbital_launcher/l_orbital_launcher_start.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_launcher/l_orbital_launcher.json
+/pa/units/air/l_fighter_adv/fighter_lines_thrust.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_fighter_adv/l_fighter_adv.json
+/pa/units/air/l_fighter_adv/fighter_lines.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_fighter_adv/l_fighter_adv.json
+/pa/units/air/l_fighter_adv/fighter_jets.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_fighter_adv/l_fighter_adv.json
+/pa/units/air/l_fighter_adv/fighter_jets_big.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_fighter_adv/l_fighter_adv.json
+/pa/units/land/l_land_mine/l_land_mine_fire.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_land_mine/triggered/l_land_mine.json
+/pa/units/land/l_land_mine/l_land_mine_ammo_explosion.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_land_mine/l_land_mine_ammo_explosion_ent.json
+/pa/units/land/l_shotgun_tank/proj_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_land_mine/triggered/l_land_mine_main_ammo.json
+/pa/units/land/l_shotgun_tank/l_shotgun_tank_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_land_mine/triggered/l_land_mine_main_ammo.json
+/pa/units/sea/battleship/battleship_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/battleship/battleship_ammo.json
+/pa/units/sea/battleship/battleship_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/battleship/battleship_ammo.json
+/pa/units/sea/l_naval_factory_adv/l_naval_factory_adv_start.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_naval_factory_adv/l_naval_factory_adv.json
+/pa/units/sea/l_naval_factory_adv/l_naval_factory_adv_build.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_naval_factory_adv/l_naval_factory_adv.json
+/pa/units/sea/l_naval_factory_adv/l_naval_factory_adv_end.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_naval_factory_adv/l_naval_factory_adv.json
+/pa/units/sea/l_naval_factory_adv/l_naval_factory_adv.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_naval_factory_adv/l_naval_factory_adv.json
+/pa/units/commanders/l_wasushi/l_wasushi_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_wasushi/l_wasushi.json
+/pa/units/commanders/l_wasushi/l_wasushi_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_wasushi/l_wasushi.json
+/ui/main/shared/img/commanders/thumbs/img_l_wasushi_thumb.png
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_wasushi/l_wasushi.json
+/ui/main/shared/img/commanders/profiles/profile_l_wasushi.png
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_wasushi/l_wasushi.json
+/ui/main/shared/img/commanders/img_l_wasushi.png
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_wasushi/l_wasushi.json
+/pa/units/orbital/l_orbital_dropper/unit_shell_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_dropper/l_orbital_dropper_ammo.json
+/pa/units/land/assault_bot/assault_bot_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/assault_bot/assault_bot_ammo.json
+/pa/units/land/assault_bot/assault_bot_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/assault_bot/assault_bot_ammo.json
+/pa/units/land/l_fabrication_bot/l_fabrication_bot_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_fabrication_bot/l_fabrication_bot.json
+/pa/units/land/l_fabrication_bot/l_fabrication_bot_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_fabrication_bot/l_fabrication_bot.json
+/pa/units/land/l_t1_turret_basic/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_artillery_adv/l_bot_artillery_adv.json
+/pa/units/land/l_bot_artillery_adv/l_bot_artillery_adv_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_artillery_adv/l_bot_artillery_adv.json
+/pa/units/land/l_bot_artillery_adv/main_gun_exp.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_artillery_adv/l_bot_artillery_adv_ammo.json
+/pa/units/land/l_bot_artillery_adv/main_gun_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_artillery_adv/l_bot_artillery_adv_ammo.json
+/pa/units/land/l_bot_artillery_adv/l_bot_artillery_adv_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_artillery_adv/l_bot_artillery_adv.json
+/pa/units/land/l_bot_artillery_adv/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_artillery_adv/l_bot_artillery_adv.json
+/pa/units/land/l_bot_artillery_adv/ground_smoke.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_artillery_adv/l_bot_artillery_adv.json
+/pa/units/land/l_bot_artillery_adv/light_ammo_exp.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_artillery_adv/l_bot_artillery_adv_light_ammo.json
+/pa/units/land/l_bot_artillery_adv/light_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_artillery_adv/l_bot_artillery_adv_light_ammo.json
+/pa/units/orbital/l_orbital_factory/l_orbital_factory_end.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_factory/l_orbital_factory.json
+/pa/units/orbital/l_orbital_factory/l_orbital_factory_build.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_factory/l_orbital_factory.json
+/pa/effects/specs/electricity_field.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_factory/l_orbital_factory.json
+/pa/units/orbital/l_orbital_factory/l_orbital_factory_start.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_factory/l_orbital_factory.json
+/pa/units/orbital/l_orbital_factory/l_orbital_factory.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_factory/l_orbital_factory.json
+/pa/units/sea/l_sea_tank/ram_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_sea_tank/l_sea_tank.json
+/pa/units/sea/l_sea_tank/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_sea_tank/l_sea_tank.json
+/pa/units/sea/l_sea_tank/shell_proj_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_sea_tank/l_sea_tank_ammo.json
+/pa/units/sea/l_sea_tank/shell_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_sea_tank/l_sea_tank_ammo.json
+/pa/units/sea/l_sea_tank/l_sea_tank_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_sea_tank/l_sea_tank.json
+/pa/units/land/l_artillery_short/proj_exp.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_artillery_short/l_artillery_short_ammo.json
+/pa/units/land/l_artillery_short/trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_artillery_short/l_artillery_short_ammo.json
+/pa/units/air/l_titan_air/titan_side_jets.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_titan_air/l_titan_air.json
+/pa/units/land/l_titan_vehicle/side_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_titan_air/l_titan_air_side_ammo.json
+/pa/units/land/l_titan_vehicle/l_titan_vehicle_side_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_titan_air/l_titan_air_side_ammo.json
+/pa/units/air/l_titan_air/titan_back_smoke.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_titan_air/l_titan_air.json
+/pa/units/air/l_titan_air/titan_back_jets.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_titan_air/l_titan_air.json
+/pa/units/air/l_titan_air/main_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_titan_air/l_titan_air_main_ammo.json
+/pa/units/air/l_titan_air/main_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_titan_air/l_titan_air_main_ammo.json
+/pa/units/land/l_nuke_launcher/l_nuke_launcher_ammo_explosion.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_nuke_launcher/l_nuke_launcher_ammo_explosion_ent.json
+/pa/units/land/l_nuke_launcher/missile/l_nuclear_missile.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_nuke_launcher/l_nuke_launcher_ammo.json
+/pa/units/orbital/l_orbital_fabrication_bot/orbital_jets.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_fabrication_bot/l_orbital_fabrication_bot.json
+/pa/units/orbital/l_orbital_fabrication_bot/l_orbital_fabrication_bot_closed.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_fabrication_bot/l_orbital_fabrication_bot.json
+/pa/units/orbital/l_orbital_fabrication_bot/l_orbital_fabrication_bot_open.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_fabrication_bot/l_orbital_fabrication_bot.json
+/pa/units/orbital/l_orbital_fabrication_bot/l_orbital_fabrication_bot_deploy.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_fabrication_bot/l_orbital_fabrication_bot.json
+/pa/units/land/l_radar_adv/l_radar_adv_start.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_radar_adv/l_radar_adv.json
+/pa/units/land/l_radar_adv/l_radar_adv_top_on.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_radar_adv/l_radar_adv.json
+/pa/units/land/l_radar_adv/l_radar_adv.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_radar_adv/l_radar_adv.json
+/pa/units/land/l_radar_adv/l_radar_adv_end.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_radar_adv/l_radar_adv.json
+/pa/units/land/l_radar_adv/l_radar_adv_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_radar_adv/l_radar_adv.json
+/pa/units/orbital/l_mining_platform/top_light.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_mining_platform/l_mining_platform.json
+/pa/units/orbital/l_mining_platform/main_effect.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_mining_platform/l_mining_platform.json
+/pa/units/orbital/l_mining_platform/l_mining_platform_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_mining_platform/l_mining_platform.json
+/pa/units/sea/sea_scout/sea_scout_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/sea_scout/sea_scout_ammo.json
+/pa/units/sea/sea_scout/sea_scout_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/sea_scout/sea_scout_ammo.json
+/pa/units/land/l_shotgun_tank/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_shotgun_tank/l_shotgun_tank.json
+/pa/units/land/tank_heavy_mortar/tank_heavy_mortar_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/tank_heavy_mortar/tank_heavy_mortar_ammo.json
+/pa/units/land/tank_heavy_mortar/tank_heavy_mortar_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/tank_heavy_mortar/tank_heavy_mortar_ammo.json
+/pa/units/sea/hover_ship/hover_ship_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/hover_ship/hover_ship_ammo.json
+/pa/units/sea/hover_ship/hover_ship_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/hover_ship/hover_ship_ammo.json
+/pa/units/sea/hover_ship/hover_ship_ammo_side_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/hover_ship/hover_ship_ammo_side.json
+/pa/units/sea/hover_ship/hover_ship_ammo_side_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/hover_ship/hover_ship_ammo_side.json
+/pa/units/orbital/l_orbital_laser/l_orb_laser_exp.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_laser/l_orbital_laser_ammo.json
+/pa/units/orbital/l_orbital_laser/trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_laser/l_orbital_laser_ammo.json
+/pa/units/land/l_mex_adv/l_metal_extractor_adv.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_mex_adv/l_mex_adv.json
+/pa/units/land/l_mex/l_mex.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_mex/l_mex.json
+/pa/units/land/l_mex/l_metal_extractor.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_mex/l_mex.json
+/pa/units/land/l_mex/l_metal_extractor_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_mex/l_mex.json
+/pa/units/land/l_mex_adv/l_metal_extractor_adv_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_mex_adv/l_mex_adv.json
+/pa/units/land/laser_defense_single/laser_defense_single_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/laser_defense_single/laser_defense_single_ammo.json
+/pa/units/orbital/l_delta_v_engine/l_delta_v_engine_end.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_delta_v_engine/l_delta_v_engine.json
+/pa/units/orbital/l_delta_v_engine/l_delta_v_engine_loop.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_delta_v_engine/l_delta_v_engine.json
+/pa/units/orbital/l_delta_v_engine/l_delta_v_engine_start.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_delta_v_engine/l_delta_v_engine.json
+/pa/units/orbital/l_delta_v_engine/delta_v_jet.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_delta_v_engine/l_delta_v_engine.json
+/pa/units/air/l_air_bomb/triggered/l_air_bomb.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_bomb/triggered/l_air_bomb.json
+/pa/units/air/l_air_bomb/triggered/l_air_bomb_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_bomb/triggered/l_air_bomb.json
+/pa/units/air/l_air_bomb/triggered/l_air_bomb_air_death.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_bomb/triggered/l_air_bomb_air_death_ent.json
+/pa/units/air/l_air_bomb/l_air_bomb_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_bomb/triggered/l_air_bomb.json
+/pa/units/land/l_vehicle_factory/l_vehicle_factory_start.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_vehicle_factory/l_vehicle_factory.json
+/pa/units/land/l_vehicle_factory/l_vehicle_factory_build.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_vehicle_factory/l_vehicle_factory.json
+/pa/units/land/l_vehicle_factory/energy_platform.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_vehicle_factory/l_vehicle_factory.json
+/pa/units/land/l_vehicle_factory/l_vehicle_factory_end.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_vehicle_factory/l_vehicle_factory.json
+/pa/units/land/l_bot_aa_adv/l_bot_aa_adv_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_aa_adv/l_bot_aa_adv.json
+/pa/units/land/l_bot_aa_adv/l_bot_aa_adv_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_aa_adv/l_bot_aa_adv.json
+/pa/units/land/l_bot_aa_adv/l_bot_aa_adv_beam.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_aa_adv/l_bot_aa_adv_ammo.json
+/pa/units/land/l_bot_aa_adv/l_bot_aa_adv_beam_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_aa_adv/l_bot_aa_adv_ammo.json
+/pa/units/land/l_bot_aa_adv/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_aa_adv/l_bot_aa_adv.json
+/pa/units/land/l_sniper_bot/l_sniper_bot_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_sniper_bot/l_sniper_bot.json
+/pa/units/land/l_sniper_bot/l_sniper_bot_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_sniper_bot/l_sniper_bot.json
+/pa/units/land/l_sniper_bot/beam_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_sniper_bot/l_sniper_bot_ammo.json
+/pa/units/land/l_sniper_bot/beam_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_sniper_bot/l_sniper_bot_ammo.json
+/pa/units/land/l_sniper_bot/muzzle_flash_medium.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_sniper_bot/l_sniper_bot.json
+/pa/units/land/l_nuke_launcher/l_nuke_launcher_end.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_nuke_launcher/l_nuke_launcher.json
+/pa/units/land/l_nuke_launcher/l_nuke_launcher_launch.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_nuke_launcher/l_nuke_launcher.json
+/pa/units/land/l_nuke_launcher/l_nuke_launcher_build.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_nuke_launcher/l_nuke_launcher.json
+/pa/units/land/l_nuke_launcher/l_nuke_launcher_start.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_nuke_launcher/l_nuke_launcher.json
+/pa/units/land/l_radar/l_radar.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_radar/l_radar.json
+/pa/units/land/l_radar/l_radar_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_radar/l_radar.json
+/pa/units/land/l_radar/l_radar_on.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_radar/l_radar.json
+/pa/units/land/l_assault_bot/ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_assault_bot/l_assault_bot_ammo.json
+/pa/units/land/l_assault_bot/l_assault_bot_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_assault_bot/l_assault_bot.json
+/pa/units/land/l_assault_bot/l_assault_bot_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_assault_bot/l_assault_bot.json
+/pa/units/air/bomber/bomber_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/bomber/bomber_ammo.json
+/pa/units/air/bomber/bomber_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/bomber/bomber_ammo.json
+/pa/units/orbital/l_orbital_probe/l_orbital_probe_closed.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_probe/l_orbital_probe.json
+/pa/units/orbital/l_orbital_probe/idle.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_probe/l_orbital_probe.json
+/pa/units/orbital/l_orbital_probe/l_orbital_probe_deploy.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_probe/l_orbital_probe.json
+/pa/units/orbital/l_orbital_probe/l_orbital_probe_open.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_probe/l_orbital_probe.json
+/pa/units/land/assault_bot_adv/assault_bot_adv_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/assault_bot_adv/assault_bot_adv_ammo.json
+/pa/effects/specs/wave.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_torpedo_launcher_adv/l_torpedo_launcher_adv_wave_ammo.json
+/pa/units/sea/l_torpedo_launcher_adv/l_torpedo_launcher_adv_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_torpedo_launcher_adv/l_torpedo_launcher_adv.json
+/pa/units/land/bot_grenadier/bot_grenadier_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/bot_grenadier/bot_grenadier_ammo.json
+/pa/units/land/bot_grenadier/bot_grenadier_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/bot_grenadier/bot_grenadier_ammo.json
+/pa/units/air/l_air_scout_adv/vision/vision_active.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_scout_adv/vision/vision.json
+/pa/units/land/artillery_short/artillery_short_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/artillery_short/artillery_short_ammo.json
+/pa/units/land/artillery_short/artillery_short_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/artillery_short/artillery_short_ammo.json
+/pa/units/land/l_bot_artillery/l_bot_artillery_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_artillery/l_bot_artillery.json
+/pa/units/land/l_bot_artillery/exp.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_artillery/bomb/bomb.json
+/pa/units/land/l_bot_artillery/trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_artillery/l_bot_artillery_ammo.json
+/pa/units/land/l_bot_artillery/l_bot_artillery_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_artillery/l_bot_artillery.json
+/pa/units/land/l_bot_artillery/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_artillery/l_bot_artillery.json
+/pa/units/air/l_gunship/l_gunship_fly.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_gunship/l_gunship.json
+/pa/units/air/l_gunship/light_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_gunship/l_gunship_main_ammo.json
+/pa/units/air/l_gunship/light_ammo_exp.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_gunship/l_gunship_main_ammo.json
+/pa/units/air/l_gunship/rocket_explosion.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_gunship/l_gunship_rocket_ammo.json
+/pa/units/air/l_gunship/rocket_proj_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_gunship/l_gunship_rocket_ammo.json
+/pa/units/air/l_bomber/bomber_jets.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_bomber/l_bomber.json
+/pa/units/air/l_bomber/bomber_lines_thrust.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_bomber/l_bomber.json
+/pa/effects/specs/t1_bomber_effect.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_bomber/l_bomber_ammo.json
+/pa/units/air/l_bomber/bomber_lines.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_bomber/l_bomber.json
+/pa/units/air/l_fighter/fighter_jets.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_fighter/l_fighter.json
+/pa/units/air/l_fighter/fighter_lines_thrust.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_fighter/l_fighter.json
+/pa/units/air/l_fighter/fighter_lines.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_fighter/l_fighter.json
+/pa/units/air/l_raider/raider_lines.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_raider/l_raider.json
+/pa/units/air/l_raider/raider_jets.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_raider/l_raider.json
+/pa/units/air/l_raider/beam_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_raider/l_raider_ammo.json
+/pa/units/air/l_raider/beam_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_raider/l_raider_ammo.json
+/pa/units/air/l_raider/raider_lines_thrust.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_raider/l_raider.json
+/pa/units/land/l_mortar_tank/l_mortar_explosion.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_hover_tank/l_hover_tank_ammo.json
+/pa/units/land/l_mortar_tank/proj_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_hover_tank/l_hover_tank_ammo.json
+/pa/units/land/l_swarm_hive/idle.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_swarm_hive/l_swarm_hive.json
+/pa/units/land/l_bot_factory_adv/l_bot_factory_adv_end.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_factory_adv/l_bot_factory_adv.json
+/pa/units/land/l_bot_factory_adv/l_bot_factory_adv_start.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_factory_adv/l_bot_factory_adv.json
+/pa/units/land/l_bot_factory_adv/l_bot_factory_adv_build.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_bot_factory_adv/l_bot_factory_adv.json
+/pa/units/sea/frigate/frigate_ammo_shell_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/frigate/frigate_ammo_shell.json
+/pa/units/sea/frigate/frigate_ammo_shell_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/frigate/frigate_ammo_shell.json
+/pa/units/land/laser_defense/laser_defense_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/laser_defense/laser_defense_ammo.json
+/pa/units/land/l_titan_structure/l_titan_structure_end.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_structure/l_titan_structure.json
+/pa/units/land/l_titan_structure/l_titan_structure_start.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_structure/l_titan_structure.json
+/pa/units/land/l_titan_structure/l_titan_structure_loop.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_structure/l_titan_structure.json
+/pa/units/land/l_titan_structure/l_titan_structure.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_structure/l_titan_structure.json
+/pa/units/land/l_titan_structure/pillars_lightning.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_structure/l_titan_structure.json
+/pa/units/land/l_titan_structure/black_hole.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_structure/l_titan_structure.json
+/pa/units/land/l_titan_structure/l_titan_structure.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_structure/l_titan_structure.json
+/pa/units/land/l_tank_swarm/l_tank_swarm_fire.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_tank_swarm/l_tank_swarm.json
+/pa/units/land/l_tank_swarm/l_tank_swarm_idle_root.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_tank_swarm/l_tank_swarm.json
+/pa/units/land/l_tank_swarm/l_tank_swarm_idle.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_tank_swarm/l_tank_swarm.json
+/pa/units/land/l_tank_swarm/l_tank_swarm_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_tank_swarm/l_tank_swarm_ammo.json
+/pa/units/land/l_tank_swarm/chain/electrode.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_tank_swarm/l_tank_swarm_ammo.json
+/pa/units/land/bot_tesla/bot_tesla_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/bot_tesla/bot_tesla_ammo.json
+/pa/units/land/bot_tesla/bot_tesla_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/bot_tesla/bot_tesla_ammo.json
+/pa/units/land/l_sniper_tank/energy_rods.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_sniper_tank/l_sniper_tank.json
+/pa/units/land/l_sniper_tank/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_sniper_tank/l_sniper_tank.json
+/pa/units/land/l_sniper_tank/artillery_muzzle_ground.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_sniper_tank/l_sniper_tank.json
+/pa/units/land/l_sniper_tank/trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_sniper_tank/l_sniper_tank_tool_weapon.json
+/pa/units/land/l_sniper_tank/hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_sniper_tank/l_sniper_tank_ammo.json
+/pa/units/land/l_hover_tank_adv/launch_smoke.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_hover_tank_adv/l_hover_tank_adv.json
+/pa/units/land/l_t1_turret_basic/t1_turret_beam.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_t1_turret_basic/l_t1_turret_basic_ammo.json
+/pa/units/land/l_t1_turret_basic/t1_turret_beam_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_t1_turret_basic/l_t1_turret_basic_ammo.json
+/pa/units/land/tank_hover/tank_hover_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/tank_hover/tank_hover_ammo.json
+/pa/units/land/tank_hover/tank_hover_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/tank_hover/tank_hover_ammo.json
+/pa/units/sea/nuclear_sub/nuclear_sub_ammo_missile_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/nuclear_sub/nuclear_sub_ammo_missile.json
+/pa/units/sea/nuclear_sub/nuclear_sub_ammo_missile_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/nuclear_sub/nuclear_sub_ammo_missile.json
+/pa/effects/specs/awesome_explosion.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_artillery_long/l_artillery_long_ammo.json
+/pa/units/land/tank_light_laser/tank_light_laser_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/tank_light_laser/tank_light_laser_ammo.json
+/pa/units/land/tank_light_laser/tank_light_laser_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/tank_light_laser/tank_light_laser_ammo.json
+/pa/units/land/l_mortar_tank/l_mortar_tank_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_mortar_tank/l_mortar_tank_ammo.json
+/pa/units/sea/missile_ship/missile_ship_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/missile_ship/missile_ship_ammo.json
+/pa/units/sea/missile_ship/missile_ship_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/missile_ship/missile_ship_ammo.json
+/pa/units/land/l_tank_shank/proj_exp.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_tank_shank/l_tank_shank_ammo.json
+/pa/units/land/l_tank_shank/trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_tank_shank/l_tank_shank_ammo.json
+/pa/units/sea/destroyer/destroyer_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/destroyer/destroyer_ammo.json
+/pa/units/sea/destroyer/destroyer_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/destroyer/destroyer_ammo.json
+/pa/units/sea/nuclear_sub/nuclear_sub_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/nuclear_sub/nuclear_sub_ammo.json
+/pa/units/sea/nuclear_sub/nuclear_sub_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/nuclear_sub/nuclear_sub_ammo.json
+/pa/units/air/gunship/gunship_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/gunship/gunship_ammo.json
+/pa/units/land/tank_laser_adv/tank_laser_adv_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/tank_laser_adv/tank_laser_adv_ammo.json
+/pa/units/land/tank_laser_adv/tank_laser_adv_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/tank_laser_adv/tank_laser_adv_ammo.json
+/pa/units/land/tank_heavy_armor/tank_heavy_armor_ammo_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/tank_heavy_armor/tank_heavy_armor_ammo.json
+/pa/units/land/tank_heavy_armor/tank_heavy_armor_ammo_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/tank_heavy_armor/tank_heavy_armor_ammo.json
+/pa/units/land/l_shield_gen/shield_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_shield_gen/l_shield_gen.json
+/pa/units/land/l_shield_gen/l_shield_gen_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_shield_gen/l_shield_gen.json
+/pa/units/land/l_shield_gen/shield.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_shield_gen/l_shield_gen.json
+/pa/units/land/l_shield_gen/shield_off.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_shield_gen/l_shield_gen_explosion_ent.json
+/pa/units/air/l_air_factory/l_air_factory_end.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_factory/l_air_factory.json
+/pa/units/air/l_air_factory/l_air_factory_start.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_factory/l_air_factory.json
+/pa/units/air/l_air_factory/l_air_factory_build.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_factory/l_air_factory.json
+/pa/units/orbital/l_orbital_railgun/spaceship_jets.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_railgun/l_orbital_railgun.json
+/pa/units/orbital/l_orbital_railgun/l_orbital_railgun_deploy.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_railgun/l_orbital_railgun.json
+/pa/units/orbital/l_orbital_railgun/idle2.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_railgun/l_orbital_railgun.json
+/pa/units/orbital/l_orbital_railgun/l_orbital_railgun_open.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_railgun/l_orbital_railgun.json
+/pa/units/orbital/l_orbital_railgun/idle.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_railgun/l_orbital_railgun.json
+/pa/units/orbital/l_orbital_railgun/l_orbital_railgun_closed.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_railgun/l_orbital_railgun.json
+/pa/units/land/l_energy_plant/sea/l_energy_plant.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_energy_plant/l_energy_plant.json
+/pa/units/land/l_energy_plant/energy_plant_idle.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_energy_plant/l_energy_plant.json
+/pa/units/land/l_energy_plant/l_energy_plant.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_energy_plant/l_energy_plant.json
+/pa/units/land/l_mortar_tank/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_mortar_tank/l_mortar_tank.json
+/ui/main/shared/img/commanders/img_l_rockteeth.png
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_rockteeth/l_rockteeth.json
+/ui/main/shared/img/commanders/profiles/profile_l_rockteeth.png
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_rockteeth/l_rockteeth.json
+/pa/units/commanders/l_rockteeth/l_rockteeth_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_rockteeth/l_rockteeth.json
+/pa/effects/specs/long_bullet.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_rockteeth/gatling_gun_tracer_ammo.json
+/ui/main/shared/img/commanders/thumbs/img_l_rockteeth_thumb.png
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_rockteeth/l_rockteeth.json
+/pa/units/land/l_tank_heavy_armor/shockwave.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_tank_heavy_armor/l_tank_heavy_armor.json
+/pa/units/land/l_tank_shank/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_tank_shank/l_tank_shank.json
+/pa/units/land/l_land_barrier/l_land_barrier.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_land_barrier/l_land_barrier.json
+/pa/units/land/l_land_barrier/sea/l_land_barrier.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_land_barrier/l_land_barrier.json
+/pa/units/land/l_fabrication_vehicle_combat/l_fabrication_vehicle_combat_drive.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_fabrication_vehicle_combat/l_fabrication_vehicle_combat.json
+/pa/units/air/l_air_factory_adv/l_air_factory_adv_build.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_factory_adv/l_air_factory_adv.json
+/pa/units/air/l_air_factory_adv/l_air_factory_adv_start.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_factory_adv/l_air_factory_adv.json
+/pa/units/air/l_air_factory_adv/l_air_factory_adv_end.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_factory_adv/l_air_factory_adv.json
+/pa/units/land/l_artillery_long/energy_rod.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_artillery_long/l_artillery_long.json
+/pa/units/land/l_artillery_long/l_artillery_long_fire.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_artillery_long/l_artillery_long.json
+/pa/effects/specs/ring_muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_artillery_long/l_artillery_long.json
+/pa/units/land/l_artillery_long/back_hatch.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_artillery_long/l_artillery_long.json
+/pa/units/commanders/l_overwatch/l_overwatch_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_overwatch/l_overwatch.json
+/ui/main/shared/img/commanders/thumbs/img_l_overwatch_thumb.png
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_overwatch/l_overwatch.json
+/ui/main/shared/img/commanders/img_l_overwatch.png
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_overwatch/l_overwatch.json
+/pa/units/commanders/l_overwatch/l_overwatch_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_overwatch/l_overwatch.json
+/ui/main/shared/img/commanders/profiles/profile_l_overwatch.png
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/commanders/l_overwatch/l_overwatch.json
+/pa/units/air/l_flying_teleporter/l_flying_teleporter_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_flying_teleporter/l_flying_teleporter.json
+/pa/units/air/l_flying_teleporter/l_flying_teleporter_fly.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_flying_teleporter/l_flying_teleporter.json
+/pa/units/air/l_flying_teleporter/launch_smoke.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_flying_teleporter/l_flying_teleporter.json
+/pa/units/air/l_flying_teleporter/dust.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_flying_teleporter/l_flying_teleporter.json
+/pa/units/air/l_flying_teleporter/teleporter_power_down.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_flying_teleporter/l_flying_teleporter.json
+/pa/units/air/l_flying_teleporter/teleporter_power_on.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_flying_teleporter/l_flying_teleporter.json
+/pa/units/air/l_flying_teleporter/event_horizon.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_flying_teleporter/l_flying_teleporter.json
+/pa/units/orbital/l_titan_orbital/l_titan_orbital_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_titan_orbital/l_titan_orbital.json
+/pa/units/orbital/l_titan_orbital/beam.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_titan_orbital/l_titan_orbital.json
+/pa/units/orbital/l_titan_orbital/ground.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_titan_orbital/l_titan_orbital_effect_ammo.json
+/pa/units/orbital/l_titan_orbital/major-main-top-lights.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_titan_orbital/l_titan_orbital.json
+/pa/units/orbital/l_titan_orbital/major-top-lights.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_titan_orbital/l_titan_orbital.json
+/pa/units/orbital/l_titan_orbital/electricity.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_titan_orbital/l_titan_orbital.json
+/pa/units/air/l_air_carrier/carrier_jets.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_carrier/l_air_carrier.json
+/pa/units/air/l_air_carrier/carrier_jets_big.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_carrier/l_air_carrier.json
+/pa/units/air/l_air_carrier/carrier_lines_thrust_big.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_carrier/l_air_carrier.json
+/pa/units/air/l_air_carrier/carrier_lines_thrust.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_carrier/l_air_carrier.json
+/pa/units/air/l_air_carrier/launch_smoke.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_carrier/l_air_carrier.json
+/pa/units/air/l_firestarter/flame_death.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_firestarter/l_firestarter_flame_drop_ammo.json
+/pa/units/air/l_firestarter/l_firestarter_deploy.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_firestarter/l_firestarter.json
+/pa/units/air/l_firestarter/bottom_fire.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_firestarter/l_firestarter.json
+/pa/units/air/l_firestarter/l_firestarter_open.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_firestarter/l_firestarter.json
+/pa/units/air/l_firestarter/idle.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_firestarter/l_firestarter.json
+/pa/units/land/l_energy_plant_adv/black_hole_implosion.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_energy_plant_adv/l_energy_plant_adv.json
+/pa/units/land/l_energy_plant_adv/black_hole.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_energy_plant_adv/l_energy_plant_adv.json
+/pa/units/land/l_energy_plant_adv/l_energy_plant_adv_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_energy_plant_adv/l_energy_plant_adv.json
+/pa/units/land/l_energy_plant_adv/sea/l_energy_plant_adv.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_energy_plant_adv/l_energy_plant_adv.json
+/pa/units/land/l_energy_plant_adv/l_energy_plant_adv.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_energy_plant_adv/l_energy_plant_adv.json
+/pa/units/land/l_fabrication_bot_adv/l_fabrication_bot_adv_walk.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_fabrication_bot_adv/l_fabrication_bot_adv.json
+/pa/units/land/l_fabrication_bot_adv/l_fabrication_bot_adv_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_fabrication_bot_adv/l_fabrication_bot_adv.json
+/pa/effects/specs/bullet_shells.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_air_defense/l_air_defense.json
+/pa/units/land/l_air_defense/l_air_defense_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_air_defense/l_air_defense.json
+/pa/units/air/l_air_scout_adv/l_air_scout_adv_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_scout_adv/l_air_scout_adv.json
+/pa/units/orbital/l_radar_satellite/l_radar_satellite_open.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_radar_satellite/l_radar_satellite.json
+/pa/units/orbital/l_radar_satellite/l_radar_satellite_deploy.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_radar_satellite/l_radar_satellite.json
+/pa/units/orbital/l_radar_satellite/l_radar_satellite_closed.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_radar_satellite/l_radar_satellite.json
+/pa/units/orbital/l_ion_defense/beam_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_ion_defense/l_ion_defense_ammo.json
+/pa/units/orbital/l_ion_defense/beam.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_ion_defense/l_ion_defense_ammo.json
+/pa/units/orbital/l_ion_defense/ion_defense_muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_ion_defense/l_ion_defense.json
+/pa/units/land/l_titan_vehicle/muzzle_flash.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_vehicle/l_titan_vehicle.json
+/pa/units/land/l_titan_vehicle/proj_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_vehicle/l_titan_vehicle_ammo_main.json
+/pa/units/land/l_titan_vehicle/main_proj_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_vehicle/l_titan_vehicle_ammo_main.json
+/pa/units/land/l_titan_vehicle/l_titan_vehicle_idle.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_titan_vehicle/l_titan_vehicle.json
+/pa/units/air/l_air_bomb/teleport.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_bomb/l_air_bomb_ammo.json
+/pa/units/air/l_air_bomb/tracer_trail.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_bomb/l_air_bomb_tracer_ammo.json
+/pa/units/air/l_air_bomb/tracer_hit.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_bomb/l_air_bomb_tracer_ammo.json
+/pa/units/air/l_air_bomb/l_air_bomb_fire.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_bomb/l_air_bomb.json
+/pa/units/air/l_air_bomb/l_air_bomb.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/air/l_air_bomb/l_air_bomb.json
+/pa/units/orbital/l_orbital_dropper/l_orbital_dropper_start.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_dropper/l_orbital_dropper.json
+/pa/units/orbital/l_orbital_dropper/l_orbital_dropper_build.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_dropper/l_orbital_dropper.json
+/pa/units/orbital/l_orbital_dropper/l_orbital_dropper_end.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_dropper/l_orbital_dropper.json
+/pa/units/orbital/l_defense_satellite/l_defense_satellite_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_defense_satellite/l_defense_satellite.json
+/pa/units/sea/l_missile_ship/l_missile_ship_deploy.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_missile_ship/l_missile_ship.json
+/pa/units/sea/l_missile_ship/l_missile_ship_open.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/sea/l_missile_ship/l_missile_ship.json
+/pa/units/land/l_storage/l_storage.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_storage/l_storage.json
+/pa/units/land/l_storage/black_hole_implosion.pfx
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_storage/l_storage.json
+/pa/units/land/l_storage/l_storage_idle.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/land/l_storage/l_storage.json
+/pa/units/orbital/l_orbital_lander/l_orbital_lander_open.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_lander/l_orbital_lander.json
+/pa/units/orbital/l_orbital_lander/l_orbital_lander_deploy.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_lander/l_orbital_lander.json
+/pa/units/orbital/l_orbital_lander/l_orbital_lander_closed.papa
+      referenced by tmp/mods\com.pa.legion-expansion-server\Legion-Expansion-Server/pa/units/orbital/l_orbital_lander/l_orbital_lander.json
+
+JSON ISSUES 0
+-------------
+
+

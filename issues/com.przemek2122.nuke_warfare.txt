@@ -1,0 +1,31 @@
+MOD DETAILS
+===========
+      name: Nuke warfare
+identifier: com.przemek2122.nuke_warfare
+    author: Przemek2122, s03g
+     forum: https://forums.uberent.com/threads/nuke-warfare-mod.72225/
+
+ISSUE SUMMARY 4
+---------------
+modinfo issues: 3
+ missing files: 0
+   json issues: 1
+
+MODINFO ISSUES 3
+----------------
+ERROR: Mandatory field "category" is missing.
+ERROR: Mandatory field "signature" is empty.
+ERROR: "category" field must be an array of strings.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 1
+-------------
+tmp/mods\com.przemek2122.nuke_warfare/pa/units/land/fabrication_bot_combat/fabrication_bot_combat_build_arm.json:1:186 error: expected 'EOF' but got ',' instead
+ 1|{"base_spec":"/pa/tools/engineer_build_arm/engineer_build_arm.json","yaw_rate":360,"pitch_rate":360,"max_range":40,"auto_repair":true,"construction_demand":{"energy":14400,"metal":100}},"can_only_assist_with_buildable_items":true} 
+  |                                                                                                                                                                                         ^ expected 'EOF' but got ',' instead
+
+
+
+

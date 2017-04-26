@@ -1,0 +1,24 @@
+MOD DETAILS
+===========
+      name: Decorative Panel Killer
+identifier: com.wondible.pa.panel_killer
+    author: wondible
+     forum: https://forums.uberent.com/threads/rel-decorative-panel-killer.66108/
+
+ISSUE SUMMARY 1
+---------------
+modinfo issues: 1
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 1
+----------------
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

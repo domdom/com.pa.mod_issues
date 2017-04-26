@@ -1,0 +1,40 @@
+MOD DETAILS
+===========
+      name: Beta Balance
+identifier: com.pa.Beta57047.rebalance
+    author: Mered4
+     forum: 
+
+ISSUE SUMMARY 10
+----------------
+modinfo issues: 3
+ missing files: 7
+   json issues: 0
+
+MODINFO ISSUES 3
+----------------
+ERROR: Mandatory field "forum" is empty.
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+WARNING: "category" array contains a redundant entry: server-mod. Please remove this entry.
+
+MISSING FILES 7
+---------------
+/pa/units/sea/sonar_adv/sonar_adv.json
+      referenced by tmp/mods\com.pa.Beta57047.rebalance\com.pa.Beta57047.rebalance-master/pa/units/unit_list.json
+/pa/units/land/artillery_long/artillery_long_anim_aimUp.papa
+      referenced by tmp/mods\com.pa.Beta57047.rebalance\com.pa.Beta57047.rebalance-master/pa/units/land/artillery_long/artillery_long.json
+/pa/units/sea/sonar/sonar.json
+      referenced by tmp/mods\com.pa.Beta57047.rebalance\com.pa.Beta57047.rebalance-master/pa/units/unit_list.json
+/pa/units/air/fighter_adv/fighter_adv_anim_landed.papa
+      referenced by tmp/mods\com.pa.Beta57047.rebalance\com.pa.Beta57047.rebalance-master/pa/units/air/fighter_adv/fighter_adv.json
+/pa/units/sea/fabrication_sub/fabrication_sub.papa
+      referenced by tmp/mods\com.pa.Beta57047.rebalance\com.pa.Beta57047.rebalance-master/pa/units/sea/fabrication_sub/fabrication_sub.json
+/pa/units/orbital/orbital_egg/orbital_egg.json
+      referenced by tmp/mods\com.pa.Beta57047.rebalance\com.pa.Beta57047.rebalance-master/pa/units/unit_list.json
+/pa/units/sea/sea_scout/sea_scout_anim_idle.papa
+      referenced by tmp/mods\com.pa.Beta57047.rebalance\com.pa.Beta57047.rebalance-master/pa/units/sea/sea_scout/sea_scout.json
+
+JSON ISSUES 0
+-------------
+
+

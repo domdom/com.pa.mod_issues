@@ -1,0 +1,25 @@
+MOD DETAILS
+===========
+      name: Strategic Filters
+identifier: com.wondible.pa.strategic_filters
+    author: wondible
+     forum: https://forums.uberent.com/threads/rel-strategic-filters.67954/
+
+ISSUE SUMMARY 2
+---------------
+modinfo issues: 2
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 2
+----------------
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+WARNING: "category" array contains a redundant entry: strategic-icons. Please use "icons" instead.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

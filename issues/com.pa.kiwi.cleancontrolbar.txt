@@ -1,0 +1,25 @@
+MOD DETAILS
+===========
+      name: Clean Control Bar
+identifier: com.pa.kiwi.cleancontrolbar
+    author: KillerKiwiJuice
+     forum: https://forums.uberent.com/threads/rel-clean-control-bar.67919/
+
+ISSUE SUMMARY 2
+---------------
+modinfo issues: 2
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 2
+----------------
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+WARNING: "category" array contains a redundant entry: client-mod. Please remove this entry.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

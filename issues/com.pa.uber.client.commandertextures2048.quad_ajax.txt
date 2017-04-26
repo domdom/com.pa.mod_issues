@@ -1,0 +1,25 @@
+MOD DETAILS
+===========
+      name: High Resolution Commander: Ajax
+identifier: com.pa.uber.client.commandertextures2048.quad_ajax
+    author: Uber Entertainment
+     forum: 
+
+ISSUE SUMMARY 2
+---------------
+modinfo issues: 2
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 2
+----------------
+ERROR: Mandatory field "forum" is missing.
+WARNING: "category" array contains a redundant entry: Texture. Please use "textures" instead.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

@@ -1,0 +1,24 @@
+MOD DETAILS
+===========
+      name: Chat With Player
+identifier: com.wondible.pa.chat_with_player
+    author: wondible, Cola_Colin, mikeyh
+     forum: https://forums.uberent.com/threads/rel-chat-with-player.70434/
+
+ISSUE SUMMARY 1
+---------------
+modinfo issues: 1
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 1
+----------------
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

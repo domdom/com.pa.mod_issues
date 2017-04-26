@@ -1,0 +1,28 @@
+MOD DETAILS
+===========
+      name: SuperCommander map pool
+identifier: com.pa.elodea.maps_supercommander
+    author: Compilation - creators listed
+     forum: https://forums.uberent.com/threads/supercommander-running-tournament.69069/
+
+ISSUE SUMMARY 5
+---------------
+modinfo issues: 5
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 5
+----------------
+WARNING: "category" array contains a redundant entry: map. Please use "maps" instead.
+WARNING: "category" array contains a redundant entry: system. Please use "maps" instead.
+WARNING: "category" array contains a redundant entry: planets. Please use "maps" instead.
+WARNING: "category" array contains a redundant entry: planet. Please use "maps" instead.
+WARNING: "category" array contains a redundant entry: systems. Please use "maps" instead.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

@@ -1,0 +1,27 @@
+MOD DETAILS
+===========
+      name: Aurora-Arty UI
+identifier: com.heiz.aurora_artyUI
+    author: Heizmeister , Mirolog
+     forum: https://forums.uberent.com/threads/rel-server-units-aurora-artillery.71183/
+
+ISSUE SUMMARY 3
+---------------
+modinfo issues: 2
+ missing files: 1
+   json issues: 0
+
+MODINFO ISSUES 2
+----------------
+ERROR: Mandatory field "build" is missing.
+WARNING: "category" array contains a redundant entry: client. Please remove this entry.
+
+MISSING FILES 1
+---------------
+/pa/effects/specs/default_commander_explosion_air_ent.pfx
+      referenced by tmp/mods\com.heiz.aurora_artyUI\com.heiz.aurora_artyUI-1.9/pa/units/orbital/orbital_armageddon/orbital_armageddon_ammo.json
+
+JSON ISSUES 0
+-------------
+
+

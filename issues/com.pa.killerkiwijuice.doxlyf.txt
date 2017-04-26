@@ -1,0 +1,50 @@
+MOD DETAILS
+===========
+      name: Dox4Lyf Mod
+identifier: com.pa.killerkiwijuice.doxlyf
+    author: KillerKiwiJuice
+     forum: https://forums.uberent.com/threads/rel-dox4lyf-mod.65833/
+
+ISSUE SUMMARY 8
+---------------
+modinfo issues: 2
+ missing files: 4
+   json issues: 2
+
+MODINFO ISSUES 2
+----------------
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+WARNING: "category" array contains a redundant entry: server-mod. Please remove this entry.
+
+MISSING FILES 4
+---------------
+/pa/units/land/assault_bot/assault_bot_squisher_ammo.json
+      referenced by tmp/mods\com.pa.killerkiwijuice.doxlyf\Dox4Lyf-Mod-master\com.pa.killerkiwijuice.doxlyf/pa/units/land/assault_bot_adv/assault_bot_squisher_tool_weapon.json
+/pa/units/land/artillery_long/artillery_long_anim_aimUp.papa
+      referenced by tmp/mods\com.pa.killerkiwijuice.doxlyf\Dox4Lyf-Mod-master\com.pa.killerkiwijuice.doxlyf/pa/units/land/artillery_long/artillery_long.json
+/pa/units/land/artillery_Xlong/artillery_Xlong.json
+      referenced by tmp/mods\com.pa.killerkiwijuice.doxlyf\Dox4Lyf-Mod-master\com.pa.killerkiwijuice.doxlyf/pa/units/unit_list.json
+/pa/units/land/base_unit/base_unit.json
+      referenced by tmp/mods\com.pa.killerkiwijuice.doxlyf\Dox4Lyf-Mod-master\com.pa.killerkiwijuice.doxlyf/pa/units/unit_list.json
+
+JSON ISSUES 2
+-------------
+tmp/mods\com.pa.killerkiwijuice.doxlyf\Dox4Lyf-Mod-master\com.pa.killerkiwijuice.doxlyf/pa/effects/specs/CPlosion.pfx:140:12 warning: ill-formed number
+ 137|		"velocity": 0.1,
+ 138|		"rotationRange": 1.14,
+ 139|		"sizeX": 1.6,
+ 140|		"sizeY": 1.,
+    |		         ^~ ill-formed number
+ 141|		"lifetime": 3.0,
+
+
+tmp/mods\com.pa.killerkiwijuice.doxlyf\Dox4Lyf-Mod-master\com.pa.killerkiwijuice.doxlyf/pa/units/land/bot_factory/bot_factory.json:226:1 error: expected 'EOF' but got '}' instead
+ 223|    "collision_layers":"WL_AnyHorizontalGroundOrWaterSurface"
+ 224|  }
+ 225|}
+ 226|} 
+    |^ expected 'EOF' but got '}' instead
+
+
+
+

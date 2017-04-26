@@ -1,0 +1,25 @@
+MOD DETAILS
+===========
+      name: Rainbow Circle Ring
+identifier: com.pa.domdom.rainbow_circle_selection
+    author: dom314
+     forum: https://forums.uberent.com/threads/rel-client-rainbow-ring.71299/#post-1123827
+
+ISSUE SUMMARY 2
+---------------
+modinfo issues: 2
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 2
+----------------
+ERROR: Mandatory field "signature" is missing.
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

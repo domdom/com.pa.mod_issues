@@ -1,0 +1,25 @@
+MOD DETAILS
+===========
+      name: Commander Icon Fix
+identifier: com.pa.stuart98.comiconhotfix
+    author: Stuart98
+     forum: https://forums.uberent.com/threads/rel-stuart98s-minimods.59559/
+
+ISSUE SUMMARY 2
+---------------
+modinfo issues: 2
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 2
+----------------
+WARNING: "category" array contains a redundant entry: Icon. Please use "icons" instead.
+WARNING: "category" array contains a redundant entry: Hotfix. Please use "fix" instead.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

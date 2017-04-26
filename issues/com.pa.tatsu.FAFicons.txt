@@ -1,0 +1,25 @@
+MOD DETAILS
+===========
+      name: Supreme Commander Icons (FAF)
+identifier: com.pa.tatsu.FAFicons
+    author: tatsu
+     forum: https://forums.uberent.com/threads/rel-sup-com-strategic-icons.48554/
+
+ISSUE SUMMARY 2
+---------------
+modinfo issues: 2
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 2
+----------------
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+WARNING: "category" array contains a redundant entry: strategic icons. Please use "icons" instead.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+

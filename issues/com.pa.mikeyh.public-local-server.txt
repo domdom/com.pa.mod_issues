@@ -1,0 +1,24 @@
+MOD DETAILS
+===========
+      name: Public Local Server
+identifier: com.pa.mikeyh.public-local-server
+    author: mikeyh
+     forum: https://forums.uberent.com/threads/wip-client-lobby-public-local-servers.71996/
+
+ISSUE SUMMARY 1
+---------------
+modinfo issues: 1
+ missing files: 0
+   json issues: 0
+
+MODINFO ISSUES 1
+----------------
+WARNING: "category" array contains a redundant entry: in-game. Please use "gameplay" instead.
+
+MISSING FILES 0
+---------------
+
+JSON ISSUES 0
+-------------
+
+
